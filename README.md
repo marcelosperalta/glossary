@@ -15,6 +15,11 @@
 [Minimum viable product (MVP)](https://en.wikipedia.org/wiki/Minimum_viable_product)  
 - A minimum viable product (MVP) is a version of a product with just enough features to satisfy early customers and provide feedback for future product development.  
 
+## O
+
+[Object-relational mapping (ORM)](https://en.wikipedia.org/wiki/Object%E2%80%93relational_mapping)  
+- Object-relational mapping (ORM, O/RM, and O/R mapping tool) in computer science is a programming technique for converting data between incompatible type systems using object-oriented programming languages.
+
 ## P
 
 [Progressive web application (PWA)](https://en.wikipedia.org/wiki/Progressive_web_application)  
