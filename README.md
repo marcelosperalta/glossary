@@ -12,13 +12,16 @@
 
 ## M
 
+[Model–view–controller (MVC)](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)  
+- Model–view–controller (usually known as MVC) is a software design pattern commonly used for developing user interfaces that divides the related program logic into three interconnected elements.  
+
 [Minimum viable product (MVP)](https://en.wikipedia.org/wiki/Minimum_viable_product)  
 - A minimum viable product (MVP) is a version of a product with just enough features to satisfy early customers and provide feedback for future product development.  
 
 ## O
 
 [Object-relational mapping (ORM)](https://en.wikipedia.org/wiki/Object%E2%80%93relational_mapping)  
-- Object-relational mapping (ORM, O/RM, and O/R mapping tool) in computer science is a programming technique for converting data between incompatible type systems using object-oriented programming languages.
+- Object-relational mapping (ORM, O/RM, and O/R mapping tool) in computer science is a programming technique for converting data between incompatible type systems using object-oriented programming languages.  
 
 ## P
 
