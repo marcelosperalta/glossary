@@ -35,5 +35,8 @@
 
 ## T
 
-[The Twelve-Factor App](https://12factor.net/)
+[The Twelve-Factor App](https://12factor.net/)  
 - The Twelve-Factor App is a methodology for building software-as-a-service applications. These best practices are designed to enable applications to be built with portability and resilience when deployed to the web.  
+
+[Toolchain](https://en.wikipedia.org/wiki/Toolchain)  
+- In software, a toolchain is a set of programming tools that is used to perform a complex software development task or to create a software product, which is typically another computer program or a set of related programs.  
