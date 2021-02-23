@@ -30,6 +30,15 @@
 
 ## S
 
+[Static site generators (SSG)](https://www.netguru.com/blog/what-are-static-site-generators)  
+- A static site generator is essentially a set of tools for building static websites based on a set of input files.  
+
+[Server-side rendering (SSR)](https://en.wikipedia.org/wiki/Single-page_application)  
+- Server-side scripting (Server-side rendering) is a technique used in web development which involves employing scripts on a web server which produce a response customised for each user's (client's) request to the website.  
+
+[Single-page application (SPA)](https://en.wikipedia.org/wiki/Single-page_application)  
+- A single-page application (SPA) is a web application or website that interacts with the user by dynamically rewriting the current web page with new data from the web server, instead of the default method of the browser loading entire new pages.  
+
 [Snippet (programming)](https://en.wikipedia.org/wiki/Snippet_(programming))  
 - Snippet is a programming term for a small region of re-usable source code, machine code, or text.  
 
