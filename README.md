@@ -5,6 +5,9 @@
 [Command-line interface (CLI)](https://en.wikipedia.org/wiki/Command-line_interface)  
 - A command-line interface (CLI) processes commands to a computer program in the form of lines of text. The program which handles the interface is called a command-line interpreter or command-line processor.  
 
+[Crawler (web crawler)](https://en.wikipedia.org/wiki/Web_crawler)  
+- A Web crawler, sometimes called a spider or spiderbot and often shortened to crawler, is an Internet bot that systematically browses the World Wide Web, typically for the purpose of Web indexing (web spidering).  
+
 ## L
 
 [Lint (or a Linter)](https://en.wikipedia.org/wiki/Lint_(software)).  
