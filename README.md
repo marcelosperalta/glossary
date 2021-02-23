@@ -33,8 +33,8 @@
 
 ## S
 
-[Static site generators (SSG)](https://www.netguru.com/blog/what-are-static-site-generators)  
-- A static site generator is essentially a set of tools for building static websites based on a set of input files.  
+[Search engine optimization (SEO)](https://en.wikipedia.org/wiki/Search_engine_optimization)  
+- Search engine optimization (SEO) is the process of improving the quality and quantity of website traffic to a website or a web page from search engines. SEO targets unpaid traffic (known as "natural" or "organic" results) rather than direct traffic or paid traffic. Unpaid traffic may originate from different kinds of searches, including image search, video search, academic search, news search, and industry-specific vertical search engines.  
 
 [Server-side rendering (SSR)](https://en.wikipedia.org/wiki/Single-page_application)  
 - Server-side scripting (Server-side rendering) is a technique used in web development which involves employing scripts on a web server which produce a response customised for each user's (client's) request to the website.  
@@ -44,6 +44,9 @@
 
 [Snippet (programming)](https://en.wikipedia.org/wiki/Snippet_(programming))  
 - Snippet is a programming term for a small region of re-usable source code, machine code, or text.  
+
+[Static site generators (SSG)](https://www.netguru.com/blog/what-are-static-site-generators)  
+- A static site generator is essentially a set of tools for building static websites based on a set of input files.  
 
 ## T
 
