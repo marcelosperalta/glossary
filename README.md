@@ -1,5 +1,10 @@
 # Glossary
 
+## A
+
+[Appication Program Interface (API)](https://en.wikipedia.org/wiki/API)  
+- An Appication Program Interface is a computing interface that defines interactions between multiple software intermediaries. It defines the kinds of calls or requests that can be made, how to make them, the data formats that should be used, the conventions to follow, etc. It can also provide extension mechanisms so that users can extend existing functionality in various ways and to varying degrees. An API can be entirely custom, specific to a component, or designed based on an industry-standard to ensure interoperability. Through information hiding, APIs enable modular programming, allowing users to use the interface independently of the implementation.  
+
 ## C
 
 [Command-line interface (CLI)](https://en.wikipedia.org/wiki/Command-line_interface)  
