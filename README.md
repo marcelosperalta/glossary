@@ -36,6 +36,11 @@
 [Progressive web application (PWA)](https://en.wikipedia.org/wiki/Progressive_web_application)  
 - A progressive web application (PWA) is a type of application software delivered through the web, built using common web technologies including HTML, CSS and JavaScript. It is intended to work on any platform that uses a standards-compliant browser.  
 
+## R
+
+[Revision Control System (RCS)](https://en.wikipedia.org/wiki/Revision_Control_System)  
+- Revision Control System (RCS) is an early version control system (VCS). It is a set of UNIX commands that allow multiple users to develop and maintain program code or documents.  
+
 ## S
 
 [Search engine optimization (SEO)](https://en.wikipedia.org/wiki/Search_engine_optimization)  
