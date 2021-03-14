@@ -15,7 +15,7 @@
 
 ## L
 
-[Lint (or a Linter)](https://en.wikipedia.org/wiki/Lint_(software)).  
+[Lint (or a Linter)](https://en.wikipedia.org/wiki/Lint_(software))  
 - lint, or a linter, is a tool that analyzes source code to flag programming errors, bugs, stylistic errors, and suspicious constructs. The term originates from a Unix utility that examined C language source code.  
 
 ## M
