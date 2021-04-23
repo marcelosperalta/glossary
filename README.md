@@ -33,6 +33,9 @@
 
 ## P
 
+[Pipeline](https://en.wikipedia.org/wiki/Pipeline_(computing)#:~:text=In%20computing%2C%20a%20pipeline%2C%20also,or%20in%20time%2Dsliced%20fashion.)  
+- In computing, a pipeline, also known as a data pipeline, is a set of data processing elements connected in series, where the output of one element is the input of the next one.  
+
 [Progressive web application (PWA)](https://en.wikipedia.org/wiki/Progressive_web_application)  
 - A progressive web application (PWA) is a type of application software delivered through the web, built using common web technologies including HTML, CSS and JavaScript. It is intended to work on any platform that uses a standards-compliant browser.  
 
