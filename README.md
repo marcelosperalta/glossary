@@ -31,7 +31,7 @@
 - A Web crawler, sometimes called a spider or spiderbot and often shortened to crawler, is an Internet bot that systematically browses the World Wide Web, typically for the purpose of Web indexing (web spidering).  
 
 <p align="right">
-  <a href="#glossary">:arrow_heading_up:</a>
+  <a href="#glossary">:arrow_up:</a>
 </p>
 
 ## L
@@ -40,7 +40,7 @@
 - lint, or a linter, is a tool that analyzes source code to flag programming errors, bugs, stylistic errors, and suspicious constructs. The term originates from a Unix utility that examined C language source code.  
 
 <p align="right">
-  <a href="#glossary">:small_red_triangle:</a>
+  <a href="#glossary">:arrow_up:</a>
 </p>
 
 ## M
@@ -52,7 +52,7 @@
 - A minimum viable product (MVP) is a version of a product with just enough features to satisfy early customers and provide feedback for future product development.  
 
 <p align="right">
-  <a href="#glossary">:small_red_triangle:</a>
+  <a href="#glossary">:arrow_up:</a>
 </p>
 
 ## O
@@ -61,7 +61,7 @@
 - Object-relational mapping (ORM, O/RM, and O/R mapping tool) in computer science is a programming technique for converting data between incompatible type systems using object-oriented programming languages.  
 
 <p align="right">
-  <a href="#glossary">:small_red_triangle:</a>
+  <a href="#glossary">:arrow_up:</a>
 </p>
 
 ## P
@@ -73,7 +73,7 @@
 - A progressive web application (PWA) is a type of application software delivered through the web, built using common web technologies including HTML, CSS and JavaScript. It is intended to work on any platform that uses a standards-compliant browser.  
 
 <p align="right">
-  <a href="#glossary">:small_red_triangle:</a>
+  <a href="#glossary">:arrow_up:</a>
 </p>
 
 ## R
@@ -82,7 +82,7 @@
 - Revision Control System (RCS) is an early version control system (VCS). It is a set of UNIX commands that allow multiple users to develop and maintain program code or documents.  
 
 <p align="right">
-  <a href="#glossary">:small_red_triangle:</a>
+  <a href="#glossary">:arrow_up:</a>
 </p>
 
 ## S
@@ -103,7 +103,7 @@
 - A static site generator is essentially a set of tools for building static websites based on a set of input files.  
 
 <p align="right">
-  <a href="#glossary">:small_red_triangle:</a>
+  <a href="#glossary">:arrow_up:</a>
 </p>
 
 ## T
@@ -115,7 +115,7 @@
 - In software, a toolchain is a set of programming tools that is used to perform a complex software development task or to create a software product, which is typically another computer program or a set of related programs.  
 
 <p align="right">
-  <a href="#glossary">:small_red_triangle:</a>
+  <a href="#glossary">:arrow_up:</a>
 </p>
 
 ## V
@@ -124,5 +124,5 @@
 - If you are a graphic or web designer and want to keep every version of an image or layout (which you would most certainly want to), a Version Control System (VCS) is a very wise thing to use. It allows you to revert selected files back to a previous state, revert the entire project back to a previous state, compare changes over time, see who last modified something that might be causing a problem, who introduced an issue and when, and more.  
 
 <p align="right">
-  <a href="#glossary">:small_red_triangle:</a>
+  <a href="#glossary">:arrow_up:</a>
 </p>
