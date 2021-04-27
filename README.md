@@ -3,15 +3,15 @@
 <br>
 
 <p align="center">
-  <a href="#a">A</a>&nbsp;&nbsp;&nbsp;:black_small_square:&nbsp;&nbsp;&nbsp;
-  <a href="#c">C</a>&nbsp;&nbsp;&nbsp;:black_small_square:&nbsp;&nbsp;&nbsp;
-  <a href="#l">L</a>&nbsp;&nbsp;&nbsp;:black_small_square:&nbsp;&nbsp;&nbsp;
-  <a href="#m">M</a>&nbsp;&nbsp;&nbsp;:black_small_square:&nbsp;&nbsp;&nbsp;
-  <a href="#o">O</a>&nbsp;&nbsp;&nbsp;:black_small_square:&nbsp;&nbsp;&nbsp;
-  <a href="#p">P</a>&nbsp;&nbsp;&nbsp;:black_small_square:&nbsp;&nbsp;&nbsp;
-  <a href="#r">R</a>&nbsp;&nbsp;&nbsp;:black_small_square:&nbsp;&nbsp;&nbsp;
-  <a href="#s">S</a>&nbsp;&nbsp;&nbsp;:black_small_square:&nbsp;&nbsp;&nbsp;
-  <a href="#t">T</a>&nbsp;&nbsp;&nbsp;:black_small_square:&nbsp;&nbsp;&nbsp;
+  <a href="#a">A</a>&nbsp;&nbsp;&nbsp;:white_medium_square:&nbsp;&nbsp;&nbsp;
+  <a href="#c">C</a>&nbsp;&nbsp;&nbsp;:white_medium_square:&nbsp;&nbsp;&nbsp;
+  <a href="#l">L</a>&nbsp;&nbsp;&nbsp;:white_medium_square:&nbsp;&nbsp;&nbsp;
+  <a href="#m">M</a>&nbsp;&nbsp;&nbsp;:white_medium_square:&nbsp;&nbsp;&nbsp;
+  <a href="#o">O</a>&nbsp;&nbsp;&nbsp;:white_medium_square:&nbsp;&nbsp;&nbsp;
+  <a href="#p">P</a>&nbsp;&nbsp;&nbsp;:white_medium_square:&nbsp;&nbsp;&nbsp;
+  <a href="#r">R</a>&nbsp;&nbsp;&nbsp;:white_medium_square:&nbsp;&nbsp;&nbsp;
+  <a href="#s">S</a>&nbsp;&nbsp;&nbsp;:white_medium_square:&nbsp;&nbsp;&nbsp;
+  <a href="#t">T</a>&nbsp;&nbsp;&nbsp;:white_medium_square:&nbsp;&nbsp;&nbsp;
   <a href="#v">V</a>
 </p>
 
