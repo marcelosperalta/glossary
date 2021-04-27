@@ -1,8 +1,8 @@
 # Glossary
 
-<p align="center" style="font-size:30px;">
-  <a href="#-a">A</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-c">C</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<p align="center">
+  <a href="#-a">A</a>&nbsp;&nbsp;&nbsp;:black_small_square:&nbsp;&nbsp;&nbsp;
+  <a href="#-c">C</a>&nbsp;&nbsp;&nbsp;:black_small_square:&nbsp;&nbsp;&nbsp;
   <a href="#-l">L</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-m">M</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-o">O</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
