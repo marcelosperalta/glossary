@@ -1,7 +1,7 @@
 # Glossary
 
 <p align="center">
-  <a href="#-a"><span style="font-size:20px;">A</span></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <span style="font-size:20px;"><a href="#-a">A</a></span>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-c">C</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-l">L</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-m">M</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
