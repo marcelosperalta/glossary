@@ -18,6 +18,10 @@
 [Appication Program Interface (API)](https://en.wikipedia.org/wiki/API)  
 - An Appication Program Interface is a computing interface that defines interactions between multiple software intermediaries. It defines the kinds of calls or requests that can be made, how to make them, the data formats that should be used, the conventions to follow, etc. It can also provide extension mechanisms so that users can extend existing functionality in various ways and to varying degrees. An API can be entirely custom, specific to a component, or designed based on an industry-standard to ensure interoperability. Through information hiding, APIs enable modular programming, allowing users to use the interface independently of the implementation.  
 
+<p align="right">
+  <a href="#glossary">:small_red_triangle:</a>
+</p>
+
 ## C
 
 [Command-line interface (CLI)](https://en.wikipedia.org/wiki/Command-line_interface)  
@@ -26,10 +30,18 @@
 [Crawler (web crawler)](https://en.wikipedia.org/wiki/Web_crawler)  
 - A Web crawler, sometimes called a spider or spiderbot and often shortened to crawler, is an Internet bot that systematically browses the World Wide Web, typically for the purpose of Web indexing (web spidering).  
 
+<p align="right">
+  <a href="#glossary">:small_red_triangle:</a>
+</p>
+
 ## L
 
 [Lint (or a Linter)](https://en.wikipedia.org/wiki/Lint_(software))  
 - lint, or a linter, is a tool that analyzes source code to flag programming errors, bugs, stylistic errors, and suspicious constructs. The term originates from a Unix utility that examined C language source code.  
+
+<p align="right">
+  <a href="#glossary">:small_red_triangle:</a>
+</p>
 
 ## M
 
@@ -39,10 +51,18 @@
 [Minimum viable product (MVP)](https://en.wikipedia.org/wiki/Minimum_viable_product)  
 - A minimum viable product (MVP) is a version of a product with just enough features to satisfy early customers and provide feedback for future product development.  
 
+<p align="right">
+  <a href="#glossary">:small_red_triangle:</a>
+</p>
+
 ## O
 
 [Object-relational mapping (ORM)](https://en.wikipedia.org/wiki/Object%E2%80%93relational_mapping)  
 - Object-relational mapping (ORM, O/RM, and O/R mapping tool) in computer science is a programming technique for converting data between incompatible type systems using object-oriented programming languages.  
+
+<p align="right">
+  <a href="#glossary">:small_red_triangle:</a>
+</p>
 
 ## P
 
@@ -52,10 +72,18 @@
 [Progressive web application (PWA)](https://en.wikipedia.org/wiki/Progressive_web_application)  
 - A progressive web application (PWA) is a type of application software delivered through the web, built using common web technologies including HTML, CSS and JavaScript. It is intended to work on any platform that uses a standards-compliant browser.  
 
+<p align="right">
+  <a href="#glossary">:small_red_triangle:</a>
+</p>
+
 ## R
 
 [Revision Control System (RCS)](https://en.wikipedia.org/wiki/Revision_Control_System)  
 - Revision Control System (RCS) is an early version control system (VCS). It is a set of UNIX commands that allow multiple users to develop and maintain program code or documents.  
+
+<p align="right">
+  <a href="#glossary">:small_red_triangle:</a>
+</p>
 
 ## S
 
@@ -74,6 +102,10 @@
 [Static site generators (SSG)](https://www.netguru.com/blog/what-are-static-site-generators)  
 - A static site generator is essentially a set of tools for building static websites based on a set of input files.  
 
+<p align="right">
+  <a href="#glossary">:small_red_triangle:</a>
+</p>
+
 ## T
 
 [The Twelve-Factor App](https://12factor.net/)  
@@ -82,11 +114,15 @@
 [Toolchain](https://en.wikipedia.org/wiki/Toolchain)  
 - In software, a toolchain is a set of programming tools that is used to perform a complex software development task or to create a software product, which is typically another computer program or a set of related programs.  
 
+<p align="right">
+  <a href="#glossary">:small_red_triangle:</a>
+</p>
+
 ## V
 
 [Version control systems (VCS)](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)  
 - If you are a graphic or web designer and want to keep every version of an image or layout (which you would most certainly want to), a Version Control System (VCS) is a very wise thing to use. It allows you to revert selected files back to a previous state, revert the entire project back to a previous state, compare changes over time, see who last modified something that might be causing a problem, who introduced an issue and when, and more.  
 
-<p align="left">
+<p align="right">
   <a href="#glossary">:small_red_triangle:</a>
 </p>
