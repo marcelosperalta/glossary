@@ -19,7 +19,7 @@
 - An Appication Program Interface is a computing interface that defines interactions between multiple software intermediaries. It defines the kinds of calls or requests that can be made, how to make them, the data formats that should be used, the conventions to follow, etc. It can also provide extension mechanisms so that users can extend existing functionality in various ways and to varying degrees. An API can be entirely custom, specific to a component, or designed based on an industry-standard to ensure interoperability. Through information hiding, APIs enable modular programming, allowing users to use the interface independently of the implementation.  
 
 <p align="right">
-  <a href="#glossary">:small_red_triangle:</a>
+  <a href="#glossary">:arrow_up:</a>
 </p>
 
 ## C
@@ -31,7 +31,7 @@
 - A Web crawler, sometimes called a spider or spiderbot and often shortened to crawler, is an Internet bot that systematically browses the World Wide Web, typically for the purpose of Web indexing (web spidering).  
 
 <p align="right">
-  <a href="#glossary">:small_red_triangle:</a>
+  <a href="#glossary">:arrow_heading_up:</a>
 </p>
 
 ## L
