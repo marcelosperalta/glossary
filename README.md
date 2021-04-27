@@ -3,7 +3,7 @@
 <hr>
 
 <p align="center">
-  <a href="#-a" font-size="20px">A</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <h1><a href="#-a">A</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</h1>
   <a href="#-c">C</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-l">L</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-m">M</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
