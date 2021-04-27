@@ -1,5 +1,7 @@
 # Glossary
 
+<br>
+
 <p align="center">
   <a href="#a">A</a>&nbsp;&nbsp;&nbsp;:black_small_square:&nbsp;&nbsp;&nbsp;
   <a href="#c">C</a>&nbsp;&nbsp;&nbsp;:black_small_square:&nbsp;&nbsp;&nbsp;
