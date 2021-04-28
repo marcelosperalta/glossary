@@ -5,6 +5,7 @@
 <p align="center">
   <a href="#a">A</a>&nbsp;&nbsp;&nbsp;:black_small_square:&nbsp;&nbsp;&nbsp;
   <a href="#c">C</a>&nbsp;&nbsp;&nbsp;:black_small_square:&nbsp;&nbsp;&nbsp;
+  <a href="#f">F</a>&nbsp;&nbsp;&nbsp;:black_small_square:&nbsp;&nbsp;&nbsp;
   <a href="#l">L</a>&nbsp;&nbsp;&nbsp;:black_small_square:&nbsp;&nbsp;&nbsp;
   <a href="#m">M</a>&nbsp;&nbsp;&nbsp;:black_small_square:&nbsp;&nbsp;&nbsp;
   <a href="#o">O</a>&nbsp;&nbsp;&nbsp;:black_small_square:&nbsp;&nbsp;&nbsp;
@@ -36,6 +37,15 @@
   <a href="#glossary">:arrow_up:</a>
 </p>
 
+## F
+
+[Functional programming (FP)](https://en.wikipedia.org/wiki/Functional_programming)  
+- In computer science, functional programming is a programming paradigm where programs are constructed by applying and composing functions. It is a declarative programming paradigm in which function definitions are trees of expressions that map values to other values, rather than a sequence of imperative statements which update the running state of the program.  
+
+<p align="right">
+  <a href="#glossary">:arrow_up:</a>
+</p>
+
 ## L
 
 [Lint (or a Linter)](https://en.wikipedia.org/wiki/Lint_(software))  
@@ -58,6 +68,9 @@
 </p>
 
 ## O
+
+[Object-oriented programming (OOP)](https://en.wikipedia.org/wiki/Object-oriented_programming)  
+- Object-oriented programming (OOP) is a programming paradigm based on the concept of "objects", which can contain data and code: data in the form of fields (often known as attributes or properties), and code, in the form of procedures (often known as methods).  
 
 [Object-relational mapping (ORM)](https://en.wikipedia.org/wiki/Object%E2%80%93relational_mapping)  
 - Object-relational mapping (ORM, O/RM, and O/R mapping tool) in computer science is a programming technique for converting data between incompatible type systems using object-oriented programming languages.  
