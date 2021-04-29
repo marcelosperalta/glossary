@@ -5,6 +5,7 @@
 <p align="center">
   <a href="#a">A</a>&nbsp;&nbsp;&nbsp;:black_small_square:&nbsp;&nbsp;&nbsp;
   <a href="#c">C</a>&nbsp;&nbsp;&nbsp;:black_small_square:&nbsp;&nbsp;&nbsp;
+  <a href="#d">D</a>&nbsp;&nbsp;&nbsp;:black_small_square:&nbsp;&nbsp;&nbsp;
   <a href="#f">F</a>&nbsp;&nbsp;&nbsp;:black_small_square:&nbsp;&nbsp;&nbsp;
   <a href="#l">L</a>&nbsp;&nbsp;&nbsp;:black_small_square:&nbsp;&nbsp;&nbsp;
   <a href="#m">M</a>&nbsp;&nbsp;&nbsp;:black_small_square:&nbsp;&nbsp;&nbsp;
@@ -32,6 +33,15 @@
 
 [Crawler (web crawler)](https://en.wikipedia.org/wiki/Web_crawler)  
 - A Web crawler, sometimes called a spider or spiderbot and often shortened to crawler, is an Internet bot that systematically browses the World Wide Web, typically for the purpose of Web indexing (web spidering).  
+
+<p align="right">
+  <a href="#glossary">:arrow_up:</a>
+</p>
+
+## D
+
+[Decentralized finance (DeFi)](https://en.wikipedia.org/wiki/Decentralized_finance)  
+- Decentralized finance (commonly referred to as DeFi) is a blockchain-based form of finance that does not rely on central financial intermediaries such as brokerages, exchanges, or banks to offer traditional financial instruments, and instead utilizes smart contracts on blockchains, the most common being Ethereum.  
 
 <p align="right">
   <a href="#glossary">:arrow_up:</a>
