@@ -28,6 +28,9 @@
 
 ## C
 
+[Continuous Integration / Continuous Delivery (CI/CD)](https://en.wikipedia.org/wiki/CI/CD)  
+- In software engineering, CI/CD or CICD is the combined practices of continuous integration and either continuous delivery or continuous deployment.  
+
 [Command-line interface (CLI)](https://en.wikipedia.org/wiki/Command-line_interface)  
 - A command-line interface (CLI) processes commands to a computer program in the form of lines of text. The program which handles the interface is called a command-line interpreter or command-line processor.  
 
