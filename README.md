@@ -155,6 +155,9 @@
 
 ## T
 
+[Test-driven development (TDD)](https://en.wikipedia.org/wiki/Test-driven_development)  
+- Test-driven development (TDD) is a software development process relying on software requirements being converted to test cases before software is fully developed, and tracking all software development by repeatedly testing the software against all test cases. This is opposed to software being developed first and test cases created later.  
+
 [The Twelve-Factor App](https://12factor.net/)  
 - The Twelve-Factor App is a methodology for building software-as-a-service applications. These best practices are designed to enable applications to be built with portability and resilience when deployed to the web.  
 
