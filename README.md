@@ -38,6 +38,9 @@
 
 ## C
 
+[Ccontent management system (CMS)](https://en.wikipedia.org/wiki/Content_management_system)  
+- A content management system (CMS) is a computer software used to manage the creation and modification of digital content. A CMS is typically used for enterprise content management (ECM) and web content management (WCM). A CMS typically has two major components: a content management application (CMA), as the front-end user interface that allows a user, even with limited expertise, to add, modify, and remove content from a website without the intervention of a webmaster; and a content delivery application (CDA), that compiles the content and updates the website.  
+
 [Continuous Integration / Continuous Delivery (CI/CD)](https://en.wikipedia.org/wiki/CI/CD)  
 - In software engineering, CI/CD or CICD is the combined practices of continuous integration and either continuous delivery or continuous deployment.  
 
