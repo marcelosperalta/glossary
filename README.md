@@ -38,7 +38,7 @@
 
 ## C
 
-[Ccontent management system (CMS)](https://en.wikipedia.org/wiki/Content_management_system)  
+[Content management system (CMS)](https://en.wikipedia.org/wiki/Content_management_system)  
 - A content management system (CMS) is a computer software used to manage the creation and modification of digital content. A CMS is typically used for enterprise content management (ECM) and web content management (WCM). A CMS typically has two major components: a content management application (CMA), as the front-end user interface that allows a user, even with limited expertise, to add, modify, and remove content from a website without the intervention of a webmaster; and a content delivery application (CDA), that compiles the content and updates the website.  
 
 [Continuous Integration / Continuous Delivery (CI/CD)](https://en.wikipedia.org/wiki/CI/CD)  
@@ -49,6 +49,9 @@
 
 [Crawler (web crawler)](https://en.wikipedia.org/wiki/Web_crawler)  
 - A Web crawler, sometimes called a spider or spiderbot and often shortened to crawler, is an Internet bot that systematically browses the World Wide Web, typically for the purpose of Web indexing (web spidering).  
+
+[Cross-site scripting (XSS)](https://en.wikipedia.org/wiki/Cross-site_scripting)  
+- Cross-site scripting (XSS) is a type of security vulnerability typically found in web applications. XSS attacks enable attackers to inject client-side scripts into web pages viewed by other users. A cross-site scripting vulnerability may be used by attackers to bypass access controls such as the same-origin policy.  
 
 <p align="right">
   <a href="#glossary">:arrow_up:</a>
