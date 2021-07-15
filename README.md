@@ -52,7 +52,7 @@
 - A Web crawler, sometimes called a spider or spiderbot and often shortened to crawler, is an Internet bot that systematically browses the World Wide Web, typically for the purpose of Web indexing (web spidering).  
 
 [Create, Read, Update, and Delete (CRUD)](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete)  
-- In computer programming, Create, Read, Update, and Delete (CRUD) are the four basic operations of persistent storage. CRUD is also sometimes used to describe user interface conventions that facilitate viewing, searching, and changing information using computer-based forms and reports. CRUD/SQL: Create/INSERT, Read/SELECT, Update/UPDATE, and Delete/DELETE.  
+- In computer programming, Create, Read, Update, and Delete (CRUD) are the four basic operations of persistent storage. CRUD is also sometimes used to describe user interface conventions that facilitate viewing, searching, and changing information using computer-based forms and reports. CRUD/SQL/HTTP: Create/INSERT/POST, Read/SELECT/GET, Update/UPDATE/PUT, and Delete/DELETE/DELETE.  
 
 [Cross-site scripting (XSS)](https://en.wikipedia.org/wiki/Cross-site_scripting)  
 - Cross-site scripting (XSS) is a type of security vulnerability typically found in web applications. XSS attacks enable attackers to inject client-side scripts into web pages viewed by other users. A cross-site scripting vulnerability may be used by attackers to bypass access controls such as the same-origin policy.  
