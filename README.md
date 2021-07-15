@@ -8,6 +8,7 @@
   <a href="#c">C</a>&nbsp;&nbsp;&nbsp;:black_small_square:&nbsp;&nbsp;&nbsp;
   <a href="#d">D</a>&nbsp;&nbsp;&nbsp;:black_small_square:&nbsp;&nbsp;&nbsp;
   <a href="#f">F</a>&nbsp;&nbsp;&nbsp;:black_small_square:&nbsp;&nbsp;&nbsp;
+  <a href="#i">I</a>&nbsp;&nbsp;&nbsp;:black_small_square:&nbsp;&nbsp;&nbsp;
   <a href="#l">L</a>&nbsp;&nbsp;&nbsp;:black_small_square:&nbsp;&nbsp;&nbsp;
   <a href="#m">M</a>&nbsp;&nbsp;&nbsp;:black_small_square:&nbsp;&nbsp;&nbsp;
   <a href="#o">O</a>&nbsp;&nbsp;&nbsp;:black_small_square:&nbsp;&nbsp;&nbsp;
@@ -76,6 +77,15 @@
 
 [Functional programming (FP)](https://en.wikipedia.org/wiki/Functional_programming)  
 - In computer science, functional programming is a programming paradigm where programs are constructed by applying and composing functions. It is a declarative programming paradigm in which function definitions are trees of expressions that map values to other values, rather than a sequence of imperative statements which update the running state of the program.  
+
+<p align="right">
+  <a href="#glossary">:arrow_up:</a>
+</p>
+
+## I
+
+[Identity and access management (IAM or IdAM)](https://en.wikipedia.org/wiki/Identity_management)  
+- Identity management (IdM), also known as identity and access management (IAM or IdAM), is a framework of policies and technologies for ensuring that the right users (in an enterprise) have the appropriate access to technology resources. IdM systems fall under the overarching umbrellas of IT security and data management.  
 
 <p align="right">
   <a href="#glossary">:arrow_up:</a>
