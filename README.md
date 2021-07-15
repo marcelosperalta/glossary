@@ -143,6 +143,9 @@
 
 ## S
 
+[Software as a service (SaaS)](https://en.wikipedia.org/wiki/Software_as_a_service)  
+- Software as a service (SaaS) is a software licensing and delivery model in which software is licensed on a subscription basis and is centrally hosted. It is sometimes referred to as "on-demand software", and was formerly referred to as "software plus services" by Microsoft. SaaS applications are also known as on-demand software and Web-based/Web-hosted software.    
+
 [Search engine optimization (SEO)](https://en.wikipedia.org/wiki/Search_engine_optimization)  
 - Search engine optimization (SEO) is the process of improving the quality and quantity of website traffic to a website or a web page from search engines. SEO targets unpaid traffic (known as "natural" or "organic" results) rather than direct traffic or paid traffic. Unpaid traffic may originate from different kinds of searches, including image search, video search, academic search, news search, and industry-specific vertical search engines.  
 
