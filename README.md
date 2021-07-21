@@ -90,6 +90,9 @@
 [Identity and access management (IAM or IdAM)](https://en.wikipedia.org/wiki/Identity_management)  
 - Identity management (IdM), also known as identity and access management (IAM or IdAM), is a framework of policies and technologies for ensuring that the right users (in an enterprise) have the appropriate access to technology resources. IdM systems fall under the overarching umbrellas of IT security and data management.  
 
+[Infrastructure as code (IaC)](https://en.wikipedia.org/wiki/Infrastructure_as_code)  
+- Infrastructure as code (IaC) is the process of managing and provisioning computer data centers through machine-readable definition files, rather than physical hardware configuration or interactive configuration tools.  
+
 <p align="right">
   <a href="#glossary">:arrow_up:</a>
 </p>
