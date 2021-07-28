@@ -156,6 +156,9 @@
 
 ## R
 
+[Request for Comments (RFC)](https://en.wikipedia.org/wiki/Request_for_Comments)  
+- A Request for Comments (RFC) is a publication from the Internet Society (ISOC) and its associated bodies, most prominently the Internet Engineering Task Force (IETF), the principal technical development and standards-setting bodies for the Internet.
+
 [Revision Control System (RCS)](https://en.wikipedia.org/wiki/Revision_Control_System)  
 - Revision Control System (RCS) is an early version control system (VCS). It is a set of UNIX commands that allow multiple users to develop and maintain program code or documents.  
 
