@@ -175,7 +175,7 @@
 - Search engine optimization (SEO) is the process of improving the quality and quantity of website traffic to a website or a web page from search engines. SEO targets unpaid traffic (known as "natural" or "organic" results) rather than direct traffic or paid traffic. Unpaid traffic may originate from different kinds of searches, including image search, video search, academic search, news search, and industry-specific vertical search engines.  
 
 [Semantic versioning (aka SemVer)](https://en.wikipedia.org/wiki/Software_versioning)    
-- Software versioning is the process of assigning either unique version names or unique version numbers to unique states of computer software. Within a given version number category (major, minor), these numbers are generally assigned in increasing order and correspond to new developments in the software.  
+- Software versioning is the process of assigning either unique version names or unique version numbers to unique states of computer software. Within a given version number category (major, minor), these numbers are generally assigned in increasing order and correspond to new developments in the software. Semantic versioning (aka SemVer), is a widely adopted version scheme that uses a sequence of three digits (Major.Minor.Patch), an optional pre-release tag and optional build meta tag.  
 
 [Server-side rendering (SSR)](https://en.wikipedia.org/wiki/Single-page_application)  
 - Server-side scripting (Server-side rendering) is a technique used in web development which involves employing scripts on a web server which produce a response customised for each user's (client's) request to the website.  
