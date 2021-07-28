@@ -156,6 +156,9 @@
 
 ## R
 
+[RDF Site Summary or Really Simple Syndication (RSS)](https://en.wikipedia.org/wiki/RSS)  
+- RSS (RDF Site Summary or Really Simple Syndication) is a web feed that allows users and applications to access updates to websites in a standardized, computer-readable format.
+
 [Request for Comments (RFC)](https://en.wikipedia.org/wiki/Request_for_Comments)  
 - A Request for Comments (RFC) is a publication from the Internet Society (ISOC) and its associated bodies, most prominently the Internet Engineering Task Force (IETF), the principal technical development and standards-setting bodies for the Internet.
 
