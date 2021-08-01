@@ -30,6 +30,9 @@
 
 ## B
 
+[Boilerplate code](https://en.wikipedia.org/wiki/Boilerplate_code)  
+- In computer programming, boilerplate code or just boilerplate are sections of code that are repeated in multiple places with little to no variation. When using languages that are considered verbose, the programmer must write a lot of code to accomplish only minor functionality. Such code is called boilerplate.  
+
 [Business logic](https://en.wikipedia.org/wiki/Business_logic)
 - In computer software, business logic or domain logic is the part of the program that encodes the real-world business rules that determine how data can be created, stored, and changed. It is contrasted with the remainder of the software that might be concerned with lower-level details of managing a database or displaying the user interface, system infrastructure, or generally connecting various parts of the program.  
 
