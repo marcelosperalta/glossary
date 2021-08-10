@@ -7,6 +7,7 @@
   <a href="#b">B</a>&nbsp;&nbsp;&nbsp;:black_small_square:&nbsp;&nbsp;&nbsp;
   <a href="#c">C</a>&nbsp;&nbsp;&nbsp;:black_small_square:&nbsp;&nbsp;&nbsp;
   <a href="#d">D</a>&nbsp;&nbsp;&nbsp;:black_small_square:&nbsp;&nbsp;&nbsp;
+  <a href="#e">E</a>&nbsp;&nbsp;&nbsp;:black_small_square:&nbsp;&nbsp;&nbsp;
   <a href="#f">F</a>&nbsp;&nbsp;&nbsp;:black_small_square:&nbsp;&nbsp;&nbsp;
   <a href="#i">I</a>&nbsp;&nbsp;&nbsp;:black_small_square:&nbsp;&nbsp;&nbsp;
   <a href="#l">L</a>&nbsp;&nbsp;&nbsp;:black_small_square:&nbsp;&nbsp;&nbsp;
@@ -77,6 +78,15 @@
 
 [Document Object Model (DOM)](https://www.w3.org/TR/REC-DOM-Level-1/introduction.html)  
 - The Document Object Model (DOM) is an application programming interface (API) for HTML and XML documents. It defines the logical structure of documents and the way a document is accessed and manipulated. In the DOM specification, the term "document" is used in the broad sense - increasingly, XML is being used as a way of representing many different kinds of information that may be stored in diverse systems, and much of this would traditionally be seen as data rather than as documents. Nevertheless, XML presents this data as documents, and the DOM may be used to manage this data.  
+
+<p align="right">
+  <a href="#glossary">:arrow_up:</a>
+</p>
+
+## E
+
+[Extreme programming (XP)](https://en.wikipedia.org/wiki/Extreme_programming)  
+- Extreme programming (XP) is a software development methodology which is intended to improve software quality and responsiveness to changing customer requirements. As a type of agile software development, it advocates frequent "releases" in short development cycles, which is intended to improve productivity and introduce checkpoints at which new customer requirements can be adopted.  
 
 <p align="right">
   <a href="#glossary">:arrow_up:</a>
