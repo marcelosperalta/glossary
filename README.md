@@ -229,6 +229,9 @@
 
 ## V
 
+[Vendor lock-in](https://en.wikipedia.org/wiki/Vendor_lock-in)  
+- In economics, vendor lock-in, also known as proprietary lock-in or customer lock-in, makes a customer dependent on a vendor for products and services, unable to use another vendor without substantial switching costs. Lock-in costs that create barriers to market entry may result in antitrust action against a monopoly.  
+
 [Version control systems (VCS)](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control)  
 - If you are a graphic or web designer and want to keep every version of an image or layout (which you would most certainly want to), a Version Control System (VCS) is a very wise thing to use. It allows you to revert selected files back to a previous state, revert the entire project back to a previous state, compare changes over time, see who last modified something that might be causing a problem, who introduced an issue and when, and more.  
 
