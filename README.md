@@ -211,7 +211,7 @@
 [Static site generators (SSG)](https://www.netguru.com/blog/what-are-static-site-generators)  
 - A static site generator is essentially a set of tools for building static websites based on a set of input files.  
 
-[Système de gestion de base de données(SGBD)](https://fr.wikipedia.org/wiki/Syst%C3%A8me_de_gestion_de_base_de_donn%C3%A9es)
+[Système de gestion de base de données (SGBD)](https://fr.wikipedia.org/wiki/Syst%C3%A8me_de_gestion_de_base_de_donn%C3%A9es)
 - Database management system (DBMS).  
 
 <p align="right">
