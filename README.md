@@ -73,6 +73,9 @@
 [Data access object (DAO)](https://en.wikipedia.org/wiki/Data_access_object)  
 - In computer software, a data access object (DAO) is a pattern that provides an abstract interface to some type of database or other persistence mechanism. By mapping application calls to the persistence layer, the DAO provides some specific data operations without exposing details of the database.  
 
+[Database management system (DBMS)](https://en.wikipedia.org/wiki/Database#Database_management_system)  
+- Software system that enables users to define, create, maintain and control access to the database.  
+
 [Decentralized finance (DeFi)](https://en.wikipedia.org/wiki/Decentralized_finance)  
 - Decentralized finance (commonly referred to as DeFi) is a blockchain-based form of finance that does not rely on central financial intermediaries such as brokerages, exchanges, or banks to offer traditional financial instruments, and instead utilizes smart contracts on blockchains, the most common being Ethereum.  
 
@@ -207,6 +210,9 @@
 
 [Static site generators (SSG)](https://www.netguru.com/blog/what-are-static-site-generators)  
 - A static site generator is essentially a set of tools for building static websites based on a set of input files.  
+
+[Système de gestion de base de données(SGBD)](https://fr.wikipedia.org/wiki/Syst%C3%A8me_de_gestion_de_base_de_donn%C3%A9es)
+- Database management system (DBMS).  
 
 <p align="right">
   <a href="#glossary">:arrow_up:</a>
