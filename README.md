@@ -214,6 +214,9 @@
 [Static site generators (SSG)](https://www.netguru.com/blog/what-are-static-site-generators)  
 - A static site generator is essentially a set of tools for building static websites based on a set of input files.  
 
+[Static type checking](https://en.wikipedia.org/wiki/Type_system#Static_type_checking)  
+- Static type checking is the process of verifying the type safety of a program based on analysis of a program's text (source code). If a program passes a static type checker, then the program is guaranteed to satisfy some set of type safety properties for all possible inputs.  
+
 [Système de gestion de base de données (SGBD)](https://fr.wikipedia.org/wiki/Syst%C3%A8me_de_gestion_de_base_de_donn%C3%A9es)
 - Database management system (DBMS).  
 
