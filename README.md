@@ -112,6 +112,9 @@
 [Infrastructure as code (IaC)](https://en.wikipedia.org/wiki/Infrastructure_as_code)  
 - Infrastructure as code (IaC) is the process of managing and provisioning computer data centers through machine-readable definition files, rather than physical hardware configuration or interactive configuration tools.  
 
+[IntelliSense](https://en.wikipedia.org/wiki/Intelligent_code_completion#IntelliSense)  
+- IntelliSense is Microsoft's implementation of code completion, best known in Visual Studio. It was first introduced as a feature of a mainstream Microsoft product in 1996 building on many already invented concepts of code completion and syntax checking, with the Visual Basic 5.0 Control Creation Edition, which was essentially a publicly available prototype for Visual Basic 5.0. IntelliSense is now supported by the Visual Studio editors for C++, C#, J#, Visual Basic, XML, HTML and XSLT among others.  
+
 <p align="right">
   <a href="#glossary">:arrow_up:</a>
 </p>
