@@ -235,6 +235,9 @@
 [Toolchain](https://en.wikipedia.org/wiki/Toolchain)  
 - In software, a toolchain is a set of programming tools that is used to perform a complex software development task or to create a software product, which is typically another computer program or a set of related programs.  
 
+[Type inference](https://en.wikipedia.org/wiki/Type_inference)  
+- Type inference refers to the automatic detection of the type of an expression in a formal language. These include programming languages and mathematical type systems, but also natural languages in some branches of computer science and linguistics.  
+
 <p align="right">
   <a href="#glossary">:arrow_up:</a>
 </p>
