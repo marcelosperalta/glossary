@@ -86,6 +86,9 @@
 [Document Object Model (DOM)](https://www.w3.org/TR/REC-DOM-Level-1/introduction.html)  
 - The Document Object Model (DOM) is an application programming interface (API) for HTML and XML documents. It defines the logical structure of documents and the way a document is accessed and manipulated. In the DOM specification, the term "document" is used in the broad sense - increasingly, XML is being used as a way of representing many different kinds of information that may be stored in diverse systems, and much of this would traditionally be seen as data rather than as documents. Nevertheless, XML presents this data as documents, and the DOM may be used to manage this data.  
 
+[Data transfer object (DTO)](https://en.wikipedia.org/wiki/Data_transfer_object)  
+- In the field of programming a data transfer object (DTO) is an object that carries data between processes. The motivation for its use is that communication between processes is usually done resorting to remote interfaces (e.g., web services), where each call is an expensive operation. Because the majority of the cost of each call is related to the round-trip time between the client and the server, one way of reducing the number of calls is to use an object (the DTO) that aggregates the data that would have been transferred by the several calls, but that is served by one call only.  
+
 <p align="right">
   <a href="#glossary">:arrow_up:</a>
 </p>
