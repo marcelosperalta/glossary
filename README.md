@@ -227,6 +227,9 @@
 [Software as a service (SaaS)](https://en.wikipedia.org/wiki/Software_as_a_service)  
 - Software as a service (SaaS) is a software licensing and delivery model in which software is licensed on a subscription basis and is centrally hosted. It is sometimes referred to as "on-demand software", and was formerly referred to as "software plus services" by Microsoft. SaaS applications are also known as on-demand software and Web-based/Web-hosted software.  
 
+[SOLID](https://en.wikipedia.org/wiki/SOLID)  
+- In software engineering, SOLID is a mnemonic acronym for five design principles intended to make software designs more understandable, flexible, and maintainable. The principles are a subset of many principles promoted by American software engineer and instructor Robert C. Martin, first introduced in his 2000 paper Design Principles and Design Patterns.  
+
 [Static site generators (SSG)](https://www.netguru.com/blog/what-are-static-site-generators)  
 - A static site generator is essentially a set of tools for building static websites based on a set of input files.  
 
