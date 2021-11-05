@@ -11,6 +11,7 @@
   <a href="#f">F</a>&nbsp;&nbsp;&nbsp;:black_small_square:&nbsp;&nbsp;&nbsp;
   <a href="#h">H</a>&nbsp;&nbsp;&nbsp;:black_small_square:&nbsp;&nbsp;&nbsp;
   <a href="#i">I</a>&nbsp;&nbsp;&nbsp;:black_small_square:&nbsp;&nbsp;&nbsp;
+  <a href="#k">K</a>&nbsp;&nbsp;&nbsp;:black_small_square:&nbsp;&nbsp;&nbsp;
   <a href="#l">L</a>&nbsp;&nbsp;&nbsp;:black_small_square:&nbsp;&nbsp;&nbsp;
   <a href="#m">M</a>&nbsp;&nbsp;&nbsp;:black_small_square:&nbsp;&nbsp;&nbsp;
   <a href="#o">O</a>&nbsp;&nbsp;&nbsp;:black_small_square:&nbsp;&nbsp;&nbsp;
@@ -89,6 +90,9 @@
 [Document Object Model (DOM)](https://www.w3.org/TR/REC-DOM-Level-1/introduction.html)  
 - The Document Object Model (DOM) is an application programming interface (API) for HTML and XML documents. It defines the logical structure of documents and the way a document is accessed and manipulated. In the DOM specification, the term "document" is used in the broad sense - increasingly, XML is being used as a way of representing many different kinds of information that may be stored in diverse systems, and much of this would traditionally be seen as data rather than as documents. Nevertheless, XML presents this data as documents, and the DOM may be used to manage this data.  
 
+[Don't repeat yourself (DRY)](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)  
+- "Don't repeat yourself" (DRY, or sometimes "do not repeat yourself") is a principle of software development aimed at reducing repetition of software patterns, replacing it with abstractions or using data normalization to avoid redundancy.  
+
 <p align="right">
   <a href="#glossary">:arrow_up:</a>
 </p>
@@ -130,6 +134,15 @@
 
 [IntelliSense](https://en.wikipedia.org/wiki/Intelligent_code_completion#IntelliSense)  
 - IntelliSense is Microsoft's implementation of code completion, best known in Visual Studio. It was first introduced as a feature of a mainstream Microsoft product in 1996 building on many already invented concepts of code completion and syntax checking, with the Visual Basic 5.0 Control Creation Edition, which was essentially a publicly available prototype for Visual Basic 5.0. IntelliSense is now supported by the Visual Studio editors for C++, C#, J#, Visual Basic, XML, HTML and XSLT among others.  
+
+<p align="right">
+  <a href="#glossary">:arrow_up:</a>
+</p>
+
+## K
+
+[Keep it simple, stupid (KISS)](https://en.wikipedia.org/wiki/KISS_principle)  
+- KISS, an acronym for keep it simple, stupid, is a design principle noted by the U.S. Navy in 1960. The KISS principle states that most systems work best if they are kept simple rather than made complicated; therefore, simplicity should be a key goal in design, and unnecessary complexity should be avoided. Variations on the phrase include: "Keep it simple, silly", "keep it short and simple", "keep it simple and straightforward", "keep it small and simple", "keep it simple, soldier", "keep it simple, sailor", or "keep it sweet and simple".  
 
 <p align="right">
   <a href="#glossary">:arrow_up:</a>
