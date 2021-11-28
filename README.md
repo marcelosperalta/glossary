@@ -267,6 +267,9 @@
 [Toolchain](https://en.wikipedia.org/wiki/Toolchain)  
 - In software, a toolchain is a set of programming tools that is used to perform a complex software development task or to create a software product, which is typically another computer program or a set of related programs.  
 
+[Tweaking](https://en.wikipedia.org/wiki/Tweaking#Software)  
+- Software tweaking is the process of improving the performance of an application or the quality of its output. There can be two ways of accomplishing this: manually (that is, if one is familiar with programming; though it may be irrelevant if the source of the application is closed, and there are no built-in means to adjust its performance) or using another piece of software specialized for that purpose. Tweaking of this kind generally increases usability, in terms of personal configuration preferences, rather than objective performance of the system overall).  
+
 [Type inference](https://en.wikipedia.org/wiki/Type_inference)  
 - Type inference refers to the automatic detection of the type of an expression in a formal language. These include programming languages and mathematical type systems, but also natural languages in some branches of computer science and linguistics.  
 
