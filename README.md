@@ -48,6 +48,9 @@
 
 ## C
 
+[CSS-in-JS](https://en.wikipedia.org/wiki/CSS-in-JS)  
+- CSS-in-JS is a styling technique where JavaScript is used to style components. When this JavaScript is parsed, CSS is generated (usually as a `\<style>` element) and attached into the DOM. It allows to abstract CSS to the component level itself, using JavaScript to describe styles in a declarative and maintainable way.  
+
 [Content Delivery Network or Content Distribution Network (CDN)](https://en.wikipedia.org/wiki/Content_delivery_network)  
 - A content delivery network, or content distribution network (CDN), is a geographically distributed network of proxy servers and their data centers. The goal is to provide high availability and performance by distributing the service spatially relative to end users.  
 
