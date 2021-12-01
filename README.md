@@ -96,6 +96,9 @@
 [Domain (software engineering)](https://en.wikipedia.org/wiki/Domain_(software_engineering))  
 - A domain is the targeted subject area of a computer program. It is a term used in software engineering. Formally it represents the target subject of a specific programming project, whether narrowly or broadly defined. For example, a particular programming project might have had as a goal, the creation of a program for a particular hospital, and that hospital would be the domain. Or the project could be expanded in scope to include _all hospitals_ as their domain.  In a computer programming design, you define a domain by delineating a set of common requirements, terminology, and functionality for any software program constructed to solve a problem in the area of computer programming, known as domain engineering. The word domain is also taken as a synonym of _application domain_.  
 
+[Domain-driven design (DDD)](https://en.wikipedia.org/wiki/Domain-driven_design)  
+- Domain-driven design (DDD) is a software design approach focusing on modelling software to match a domain according to input from that domain's experts.  
+
 [Don't repeat yourself (DRY)](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)  
 - "Don't repeat yourself" (DRY, or sometimes "do not repeat yourself") is a principle of software development aimed at reducing repetition of software patterns, replacing it with abstractions or using data normalization to avoid redundancy.  
 
