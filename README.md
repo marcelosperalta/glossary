@@ -93,6 +93,9 @@
 [Document Object Model (DOM)](https://www.w3.org/TR/REC-DOM-Level-1/introduction.html)  
 - The Document Object Model (DOM) is an application programming interface (API) for HTML and XML documents. It defines the logical structure of documents and the way a document is accessed and manipulated. In the DOM specification, the term "document" is used in the broad sense - increasingly, XML is being used as a way of representing many different kinds of information that may be stored in diverse systems, and much of this would traditionally be seen as data rather than as documents. Nevertheless, XML presents this data as documents, and the DOM may be used to manage this data.  
 
+[Domain (software engineering)](https://en.wikipedia.org/wiki/Domain_(software_engineering))  
+- A domain is the targeted subject area of a computer program. It is a term used in software engineering. Formally it represents the target subject of a specific programming project, whether narrowly or broadly defined.[1] For example, a particular programming project might have had as a goal, the creation of a program for a particular hospital, and that hospital would be the domain. Or the project could be expanded in scope to include _all hospitals_ as their domain.  In a computer programming design, you define a domain by delineating a set of common requirements, terminology, and functionality for any software program constructed to solve a problem in the area of computer programming, known as domain engineering. The word domain is also taken as a synonym of _application domain_.  
+
 [Don't repeat yourself (DRY)](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)  
 - "Don't repeat yourself" (DRY, or sometimes "do not repeat yourself") is a principle of software development aimed at reducing repetition of software patterns, replacing it with abstractions or using data normalization to avoid redundancy.  
 
@@ -197,6 +200,9 @@
 
 [Principle of least privilege (PoLP)](https://en.wikipedia.org/wiki/Principle_of_least_privilege)  
 - In information security, computer science, and other fields, the principle of least privilege (PoLP), also known as the principle of minimal privilege or the principle of least authority, requires that in a particular abstraction layer of a computing environment, every module (such as a process, a user, or a program, depending on the subject) must be able to access only the information and resources that are necessary for its legitimate purpose.  
+
+[Programming domain](https://en.wikipedia.org/wiki/Programming_domain)  
+- The term programming domain is mostly used when referring to domain-specific programming languages. It refers to a set of programming languages or programming environments that were written specifically for a particular domain, where _domain_ means a broad subject for end users such as accounting or finance, or a category of program usage such as artificial intelligence or email. Languages and systems within a single programming domain would have functions common to the domain and may omit functions that are irrelevant to a domain.  
 
 [Progressive web application (PWA)](https://en.wikipedia.org/wiki/Progressive_web_application)  
 - A progressive web application (PWA) is a type of application software delivered through the web, built using common web technologies including HTML, CSS and JavaScript. It is intended to work on any platform that uses a standards-compliant browser.  
