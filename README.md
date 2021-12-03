@@ -9,6 +9,7 @@
   <a href="#d">D</a>&nbsp;&nbsp;&nbsp;:black_small_square:&nbsp;&nbsp;&nbsp;
   <a href="#e">E</a>&nbsp;&nbsp;&nbsp;:black_small_square:&nbsp;&nbsp;&nbsp;
   <a href="#f">F</a>&nbsp;&nbsp;&nbsp;:black_small_square:&nbsp;&nbsp;&nbsp;
+  <a href="#g">G</a>&nbsp;&nbsp;&nbsp;:black_small_square:&nbsp;&nbsp;&nbsp;
   <a href="#h">H</a>&nbsp;&nbsp;&nbsp;:black_small_square:&nbsp;&nbsp;&nbsp;
   <a href="#i">I</a>&nbsp;&nbsp;&nbsp;:black_small_square:&nbsp;&nbsp;&nbsp;
   <a href="#k">K</a>&nbsp;&nbsp;&nbsp;:black_small_square:&nbsp;&nbsp;&nbsp;
@@ -119,6 +120,15 @@
 
 [Functional programming (FP)](https://en.wikipedia.org/wiki/Functional_programming)  
 - In computer science, functional programming is a programming paradigm where programs are constructed by applying and composing functions. It is a declarative programming paradigm in which function definitions are trees of expressions that map values to other values, rather than a sequence of imperative statements which update the running state of the program.  
+
+<p align="right">
+  <a href="#glossary">:arrow_up:</a>
+</p>
+
+## G
+
+[Greenfield project](https://en.wikipedia.org/wiki/Greenfield_project)  
+- In many disciplines, a greenfield project is one that lacks constraints imposed by prior work. The analogy is to that of construction on greenfield land where there is no need to work within the constraints of existing buildings or infrastructure. In software development, a greenfield project could be one of developing a system for a totally new environment, without concern for integrating with other systems, especially not legacy systems. Such projects are deemed higher risk, as they are often for new infrastructure, new customers, and even new owners.  
 
 <p align="right">
   <a href="#glossary">:arrow_up:</a>
