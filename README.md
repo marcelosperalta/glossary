@@ -268,6 +268,9 @@
 [SOLID](https://en.wikipedia.org/wiki/SOLID)  
 - In software engineering, SOLID is a mnemonic acronym for five design principles intended to make software designs more understandable, flexible, and maintainable. The principles are a subset of many principles promoted by American software engineer and instructor Robert C. Martin, first introduced in his 2000 paper Design Principles and Design Patterns.  
 
+[Startup studio](https://en.wikipedia.org/wiki/Startup_studio)  
+- A startup studio, also known as a startup factory, or a startup foundry, or a venture studio, or a venture builder is a studio-like company that aims at building several companies in succession. This style of business building is referred to as "parallel entrepreneurship".  
+
 [Static site generators (SSG)](https://www.netguru.com/blog/what-are-static-site-generators)  
 - A static site generator is essentially a set of tools for building static websites based on a set of input files.  
 
