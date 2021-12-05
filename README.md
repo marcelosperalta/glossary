@@ -247,6 +247,9 @@
 [Semantic versioning (aka SemVer)](https://en.wikipedia.org/wiki/Software_versioning)    
 - Software versioning is the process of assigning either unique version names or unique version numbers to unique states of computer software. Within a given version number category (major, minor), these numbers are generally assigned in increasing order and correspond to new developments in the software. Semantic versioning (aka SemVer), is a widely adopted version scheme that uses a sequence of three digits (Major.Minor.Patch), an optional pre-release tag and optional build meta tag.  
 
+[Semantics](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)  
+- In programming, Semantics refers to the meaning of a piece of code — for example "what effect does running that line of JavaScript have?", or "what purpose or role does that HTML element have" (rather than "what does it look like?".)  
+
 [Serverless computing](https://en.wikipedia.org/wiki/Serverless_computing)  
 - Serverless computing is a cloud computing execution model in which the cloud provider allocates machine resources on demand, taking care of the servers on behalf of their customers. Serverless computing does not hold resources in volatile memory; computing is rather done in short bursts with the results persisted to storage.  
 
