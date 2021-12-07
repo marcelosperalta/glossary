@@ -278,7 +278,10 @@
 - A software development kit (SDK) is a collection of software development tools in one installable package. They facilitate the creation of applications by having a compiler, debugger and perhaps a software framework. They are normally specific to a hardware platform and operating system combination. To create applications with advanced functionalities such as advertisements, push notifications, etc; most application software developers use specific software development kits.
 
 [SOLID](https://en.wikipedia.org/wiki/SOLID)  
-- In software engineering, SOLID is a mnemonic acronym for five design principles intended to make software designs more understandable, flexible, and maintainable. The principles are a subset of many principles promoted by American software engineer and instructor Robert C. Martin, first introduced in his 2000 paper Design Principles and Design Patterns.  
+- In software engineering, SOLID is a mnemonic acronym for five design principles intended to make software designs more understandable, flexible, and maintainable. The principles are a subset of many principles promoted by American software engineer and instructor Robert C. Martin, first introduced in his 2000 paper Design Principles and Design Patterns.
+
+[Solution stack](https://en.wikipedia.org/wiki/Solution_stack)
+- In computing, a solution stack or software stack or tech stack is a set of software subsystems or components needed to create a complete platform such that no additional software is needed to support applications. Applications are said to "run on" or "run on top of" the resulting platform. Examples: Jamstack, LAMP, MEAN, MERN, MEVN.
 
 [Startup studio](https://en.wikipedia.org/wiki/Startup_studio)  
 - A startup studio, also known as a startup factory, or a startup foundry, or a venture studio, or a venture builder is a studio-like company that aims at building several companies in succession. This style of business building is referred to as "parallel entrepreneurship".  
