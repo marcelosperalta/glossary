@@ -34,6 +34,9 @@
 
 ## B
 
+[Behavior-driven development (BDD)](https://en.wikipedia.org/wiki/Behavior-driven_development)  
+- In software engineering, behavior-driven development (BDD) is an agile software development process that encourages collaboration among developers, quality assurance testers, and customer representatives in a software project. It encourages teams to use conversation and concrete examples to formalize a shared understanding of how the application should behave. It emerged from test-driven development (TDD). Behavior-driven development combines the general techniques and principles of TDD with ideas from domain-driven design and object-oriented analysis and design to provide software development and management teams with shared tools and a shared process to collaborate on software development.  
+
 [Boilerplate code](https://en.wikipedia.org/wiki/Boilerplate_code)  
 - In computer programming, boilerplate code or just boilerplate are sections of code that are repeated in multiple places with little to no variation. When using languages that are considered verbose, the programmer must write a lot of code to accomplish only minor functionality. Such code is called boilerplate.  
 
