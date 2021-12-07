@@ -229,11 +229,17 @@
 [RDF Site Summary or Really Simple Syndication (RSS)](https://en.wikipedia.org/wiki/RSS)  
 - RSS (RDF Site Summary or Really Simple Syndication) is a web feed that allows users and applications to access updates to websites in a standardized, computer-readable format.
 
+[Representational state transfer (REST)](https://en.wikipedia.org/wiki/Representational_state_transfer)  
+- Representational state transfer (REST) is a software architectural style that was created to guide the design and development of the architecture for the World Wide Web. REST defines a set of constraints for how the architecture of an Internet-scale distributed hypermedia system, such as the Web, should behave. The REST architectural style emphasises the scalability of interactions between components, uniform interfaces, independent deployment of components, and the creation of a layered architecture to facilitate caching components to reduce user-perceived latency, enforce security, and encapsulate legacy systems.
+
 [Request for Comments (RFC)](https://en.wikipedia.org/wiki/Request_for_Comments)  
 - A Request for Comments (RFC) is a publication from the Internet Society (ISOC) and its associated bodies, most prominently the Internet Engineering Task Force (IETF), the principal technical development and standards-setting bodies for the Internet.
 
+[RESTful](https://en.wikipedia.org/wiki/Representational_state_transfer)  
+- A web API that obeys the REST constraints is informally described as RESTful. RESTful web APIs are typically loosely based on HTTP methods to access resources via URL-encoded parameters and the use of JSON or XML to transmit data.
+
 [Revision Control System (RCS)](https://en.wikipedia.org/wiki/Revision_Control_System)  
-- Revision Control System (RCS) is an early version control system (VCS). It is a set of UNIX commands that allow multiple users to develop and maintain program code or documents.  
+- Revision Control System (RCS) is an early version control system (VCS). It is a set of UNIX commands that allow multiple users to develop and maintain program code or documents.
 
 <p align="right">
   <a href="#glossary">:arrow_up:</a>
