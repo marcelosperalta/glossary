@@ -20,6 +20,7 @@
   <a href="#r">R</a>&nbsp;&nbsp;&nbsp;:black_small_square:&nbsp;&nbsp;&nbsp;
   <a href="#s">S</a>&nbsp;&nbsp;&nbsp;:black_small_square:&nbsp;&nbsp;&nbsp;
   <a href="#t">T</a>&nbsp;&nbsp;&nbsp;:black_small_square:&nbsp;&nbsp;&nbsp;
+  <a href="#u">U</a>&nbsp;&nbsp;&nbsp;:black_small_square:&nbsp;&nbsp;&nbsp;
   <a href="#v">V</a>
 </p>
 
@@ -321,6 +322,15 @@
 
 [Type inference](https://en.wikipedia.org/wiki/Type_inference)  
 - Type inference refers to the automatic detection of the type of an expression in a formal language. These include programming languages and mathematical type systems, but also natural languages in some branches of computer science and linguistics.  
+
+<p align="right">
+  <a href="#glossary">:arrow_up:</a>
+</p>
+
+## U
+
+[URL Slug](https://en.wikipedia.org/wiki/Clean_URL#Slug)  
+- Some systems define a slug as the part of a URL that identifies a page in human-readable keywords. It is usually the end part of the URL (specifically of the path / pathinfo part), which can be interpreted as the name of the resource, similar to the basename in a filename or the title of a page. The name is based on the use of the word slug in the news media to indicate a short name given to an article for internal use.
 
 <p align="right">
   <a href="#glossary">:arrow_up:</a>
