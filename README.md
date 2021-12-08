@@ -53,6 +53,12 @@
 
 ## C
 
+[Clean URL](https://en.wikipedia.org/wiki/Clean_URL)  
+- Clean URLs, also sometimes referred to as RESTful URLs, user-friendly URLs, pretty URLs or search engine-friendly URLs, are URLs intended to improve the usability and accessibility of a website or web service by being immediately and intuitively meaningful to non-expert users. Such URL schemes tend to reflect the conceptual structure of a collection of information and decouple the user interface from a server's internal representation of information. Other reasons for using clean URLs include search engine optimization (SEO), conforming to the representational state transfer (REST) style of software architecture, and ensuring that individual web resources remain consistently at the same URL. This makes the World Wide Web a more stable and useful system, and allows more durable and reliable bookmarking of web resources.
+
+[Command-line interface (CLI)](https://en.wikipedia.org/wiki/Command-line_interface)  
+- A command-line interface (CLI) processes commands to a computer program in the form of lines of text. The program which handles the interface is called a command-line interpreter or command-line processor.  
+
 [Content Delivery Network or Content Distribution Network (CDN)](https://en.wikipedia.org/wiki/Content_delivery_network)  
 - A content delivery network, or content distribution network (CDN), is a geographically distributed network of proxy servers and their data centers. The goal is to provide high availability and performance by distributing the service spatially relative to end users.  
 
@@ -61,9 +67,6 @@
 
 [Continuous Integration / Continuous Delivery (CI/CD)](https://en.wikipedia.org/wiki/CI/CD)  
 - In software engineering, CI/CD or CICD is the combined practices of continuous integration and either continuous delivery or continuous deployment. In software engineering, continuous integration (CI) is the practice of merging all developers' working copies to a shared mainline several times a day. Continuous delivery (CD) is a software engineering approach in which teams produce software in short cycles, ensuring that the software can be reliably released at any time and, when releasing the software, without doing so manually.  
-
-[Command-line interface (CLI)](https://en.wikipedia.org/wiki/Command-line_interface)  
-- A command-line interface (CLI) processes commands to a computer program in the form of lines of text. The program which handles the interface is called a command-line interpreter or command-line processor.  
 
 [Crawler (web crawler)](https://en.wikipedia.org/wiki/Web_crawler)  
 - A Web crawler, sometimes called a spider or spiderbot and often shortened to crawler, is an Internet bot that systematically browses the World Wide Web, typically for the purpose of Web indexing (web spidering).  
