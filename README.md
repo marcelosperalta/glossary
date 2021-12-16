@@ -192,7 +192,7 @@
 - A minimum viable product (MVP) is a version of a product with just enough features to satisfy early customers and provide feedback for future product development. 
 
 [Modal window](https://en.wikipedia.org/wiki/Modal_window)  
-- In user interface design for computer applications, a modal window is a graphical control element subordinate to an application's main window. A modal window creates a mode that disables the main window but keeps it visible, with the modal window as a child window in front of it.  
+- In user interface design for computer applications, a modal window is a graphical control element subordinate to an application's main window. A modal window creates a mode that disables the main window but keeps it visible, with the modal window as a child window in front of it. Modal windows are sometimes called **heavy windows** or **modal dialogs** because they often display a dialog box.
 
 [Model–view–controller (MVC)](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)  
 - Model–view–controller (usually known as MVC) is a software design pattern commonly used for developing user interfaces that divides the related program logic into three interconnected elements.   
