@@ -71,6 +71,9 @@
 [Continuous Integration / Continuous Delivery (CI/CD)](https://en.wikipedia.org/wiki/CI/CD)  
 - In software engineering, CI/CD or CICD is the combined practices of continuous integration and either continuous delivery or continuous deployment. In software engineering, continuous integration (CI) is the practice of merging all developers' working copies to a shared mainline several times a day. Continuous delivery (CD) is a software engineering approach in which teams produce software in short cycles, ensuring that the software can be reliably released at any time and, when releasing the software, without doing so manually. e.g. [Jenkins](https://www.jenkins.io/), [TeamCity](https://www.jetbrains.com/teamcity/), [CircleCI](https://circleci.com/). 
 
+[Cross-origin resource sharing(CORS)](https://en.wikipedia.org/wiki/Cross-origin_resource_sharing)
+- Cross-origin resource sharing (CORS) is a mechanism that allows restricted resources on a web page to be requested from another domain outside the domain from which the first resource was served. e.g. [cors](https://github.com/expressjs/cors).
+
 [Crawler (web crawler)](https://en.wikipedia.org/wiki/Web_crawler)  
 - A Web crawler, sometimes called a spider or spiderbot and often shortened to crawler, is an Internet bot that systematically browses the World Wide Web, typically for the purpose of Web indexing (web spidering).  
 
