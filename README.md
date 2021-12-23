@@ -26,8 +26,11 @@
 
 ## A
 
+[Application performance management (APM)]()
+- In the fields of information technology and systems management, application performance management (APM) or application performance monitoring is the monitoring and management of performance and availability of software applications. APM strives to detect and diagnose complex application performance problems to maintain an expected level of service. e.g. [Datadog](https://www.datadoghq.com/).
+
 [Appication Program Interface (API)](https://en.wikipedia.org/wiki/API)  
-- An Appication Program Interface is a computing interface that defines interactions between multiple software intermediaries. It defines the kinds of calls or requests that can be made, how to make them, the data formats that should be used, the conventions to follow, etc. It can also provide extension mechanisms so that users can extend existing functionality in various ways and to varying degrees. An API can be entirely custom, specific to a component, or designed based on an industry-standard to ensure interoperability. Through information hiding, APIs enable modular programming, allowing users to use the interface independently of the implementation.  
+- An Appication Program Interface is a computing interface that defines interactions between multiple software intermediaries. It defines the kinds of calls or requests that can be made, how to make them, the data formats that should be used, the conventions to follow, etc. It can also provide extension mechanisms so that users can extend existing functionality in various ways and to varying degrees. An API can be entirely custom, specific to a component, or designed based on an industry-standard to ensure interoperability. Through information hiding, APIs enable modular programming, allowing users to use the interface independently of the implementation. 
 
 <p align="right">
   <a href="#glossary">:arrow_up:</a>
@@ -63,10 +66,10 @@
 - A content delivery network, or content distribution network (CDN), is a geographically distributed network of proxy servers and their data centers. The goal is to provide high availability and performance by distributing the service spatially relative to end users.  
 
 [Content management system (CMS)](https://en.wikipedia.org/wiki/Content_management_system)  
-- A content management system (CMS) is a computer software used to manage the creation and modification of digital content. A CMS is typically used for enterprise content management (ECM) and web content management (WCM). A CMS typically has two major components: a content management application (CMA), as the front-end user interface that allows a user, even with limited expertise, to add, modify, and remove content from a website without the intervention of a webmaster; and a content delivery application (CDA), that compiles the content and updates the website. Examples: Contentful, WordPress, Joomla.  
+- A content management system (CMS) is a computer software used to manage the creation and modification of digital content. A CMS is typically used for enterprise content management (ECM) and web content management (WCM). A CMS typically has two major components: a content management application (CMA), as the front-end user interface that allows a user, even with limited expertise, to add, modify, and remove content from a website without the intervention of a webmaster; and a content delivery application (CDA), that compiles the content and updates the website. e.g. [Contentful](https://www.contentful.com/), [WordPress](https://wordpress.com/), [Joomla](https://www.joomla.org/).
 
 [Continuous Integration / Continuous Delivery (CI/CD)](https://en.wikipedia.org/wiki/CI/CD)  
-- In software engineering, CI/CD or CICD is the combined practices of continuous integration and either continuous delivery or continuous deployment. In software engineering, continuous integration (CI) is the practice of merging all developers' working copies to a shared mainline several times a day. Continuous delivery (CD) is a software engineering approach in which teams produce software in short cycles, ensuring that the software can be reliably released at any time and, when releasing the software, without doing so manually.  
+- In software engineering, CI/CD or CICD is the combined practices of continuous integration and either continuous delivery or continuous deployment. In software engineering, continuous integration (CI) is the practice of merging all developers' working copies to a shared mainline several times a day. Continuous delivery (CD) is a software engineering approach in which teams produce software in short cycles, ensuring that the software can be reliably released at any time and, when releasing the software, without doing so manually. e.g. [Jenkins](https://www.jenkins.io/), [TeamCity](https://www.jetbrains.com/teamcity/), [CircleCI](https://circleci.com/). 
 
 [Crawler (web crawler)](https://en.wikipedia.org/wiki/Web_crawler)  
 - A Web crawler, sometimes called a spider or spiderbot and often shortened to crawler, is an Internet bot that systematically browses the World Wide Web, typically for the purpose of Web indexing (web spidering).  
@@ -78,7 +81,7 @@
 - Cross-site scripting (XSS) is a type of security vulnerability typically found in web applications. XSS attacks enable attackers to inject client-side scripts into web pages viewed by other users. A cross-site scripting vulnerability may be used by attackers to bypass access controls such as the same-origin policy.  
 
 [CSS-in-JS](https://en.wikipedia.org/wiki/CSS-in-JS)  
-- CSS-in-JS is a styling technique where JavaScript is used to style components. When this JavaScript is parsed, CSS is generated (usually as a `<style>` element) and attached into the DOM. It allows to abstract CSS to the component level itself, using JavaScript to describe styles in a declarative and maintainable way.  
+- CSS-in-JS is a styling technique where JavaScript is used to style components. When this JavaScript is parsed, CSS is generated (usually as a `<style>` element) and attached into the DOM. It allows to abstract CSS to the component level itself, using JavaScript to describe styles in a declarative and maintainable way. e.g. [styled-components](https://styled-components.com/), [Emotion](https://emotion.sh/), [JSS](https://cssinjs.org/). 
 
 <p align="right">
   <a href="#glossary">:arrow_up:</a>
@@ -177,7 +180,7 @@
 ## L
 
 [Lint (or a Linter)](https://en.wikipedia.org/wiki/Lint_(software))  
-- lint, or a linter, is a tool that analyzes source code to flag programming errors, bugs, stylistic errors, and suspicious constructs. The term originates from a Unix utility that examined C language source code.  
+- lint, or a linter, is a tool that analyzes source code to flag programming errors, bugs, stylistic errors, and suspicious constructs. The term originates from a Unix utility that examined C language source code. e.g. [ESLint](https://eslint.org/), [JSLint](https://www.jslint.com/).
 
 <p align="right">
   <a href="#glossary">:arrow_up:</a>
