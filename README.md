@@ -119,6 +119,9 @@
 
 ## E
 
+[Event-driven programming](https://en.wikipedia.org/wiki/Event-driven_programming)  
+- In computer programming, event-driven programming is a programming paradigm in which the flow of the program is determined by events such as user actions (mouse clicks, key presses), sensor outputs, or message passing from other programs or threads. Event-driven programming is the dominant paradigm used in graphical user interfaces and other applications (e.g., JavaScript web applications) that are centered on performing certain actions in response to user input.
+
 [Extreme programming (XP)](https://en.wikipedia.org/wiki/Extreme_programming)  
 - Extreme programming (XP) is a software development methodology which is intended to improve software quality and responsiveness to changing customer requirements. As a type of agile software development, it advocates frequent "releases" in short development cycles, which is intended to improve productivity and introduce checkpoints at which new customer requirements can be adopted.  
 
@@ -273,7 +276,7 @@
 - In programming, Semantics refers to the meaning of a piece of code — for example "what effect does running that line of JavaScript have?", or "what purpose or role does that HTML element have" (rather than "what does it look like?".)  
 
 [Serverless computing](https://en.wikipedia.org/wiki/Serverless_computing)  
-- Serverless computing is a cloud computing execution model in which the cloud provider allocates machine resources on demand, taking care of the servers on behalf of their customers. Serverless computing does not hold resources in volatile memory; computing is rather done in short bursts with the results persisted to storage.  
+- Serverless computing is a cloud computing execution model in which the cloud provider allocates machine resources on demand, taking care of the servers on behalf of their customers. Serverless computing does not hold resources in volatile memory; computing is rather done in short bursts with the results persisted to storage. e.g. [Cloudflare Workers](https://workers.cloudflare.com/), [AWS Lambda](https://aws.amazon.com/lambda/).
 
 [Server-side rendering (SSR)](https://en.wikipedia.org/wiki/Single-page_application)  
 - Server-side scripting (Server-side rendering) is a technique used in web development which involves employing scripts on a web server which produce a response customised for each user's (client's) request to the website.  
