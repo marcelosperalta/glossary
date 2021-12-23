@@ -288,7 +288,7 @@
 - Snippet is a programming term for a small region of re-usable source code, machine code, or text.  
 
 [Software as a service (SaaS)](https://en.wikipedia.org/wiki/Software_as_a_service)  
-- Software as a service (SaaS) is a software licensing and delivery model in which software is licensed on a subscription basis and is centrally hosted. It is sometimes referred to as "on-demand software", and was formerly referred to as "software plus services" by Microsoft. SaaS applications are also known as on-demand software and Web-based/Web-hosted software.  
+- Software as a service (SaaS) is a software licensing and delivery model in which software is licensed on a subscription basis and is centrally hosted. It is sometimes referred to as "on-demand software", and was formerly referred to as "software plus services" by Microsoft. SaaS applications are also known as on-demand software and Web-based/Web-hosted software. e.g. [Salesforce](https://www.salesforce.com/), [monday.com](https://monday.com/).
 
 [Software development kit (SDK)](https://en.wikipedia.org/wiki/Software_development_kit)  
 - A software development kit (SDK) is a collection of software development tools in one installable package. They facilitate the creation of applications by having a compiler, debugger and perhaps a software framework. They are normally specific to a hardware platform and operating system combination. To create applications with advanced functionalities such as advertisements, push notifications, etc; most application software developers use specific software development kits.
