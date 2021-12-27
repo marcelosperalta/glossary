@@ -164,6 +164,9 @@
 [Identity and access management (IAM or IdAM)](https://en.wikipedia.org/wiki/Identity_management)  
 - Identity management (IdM), also known as identity and access management (IAM or IdAM), is a framework of policies and technologies for ensuring that the right users (in an enterprise) have the appropriate access to technology resources. IdM systems fall under the overarching umbrellas of IT security and data management.  
 
+[Infrastructure as a service (IaaS](https://en.wikipedia.org/wiki/Infrastructure_as_a_service)  
+- Infrastructure as a service (IaaS) are online services that provide high-level APIs used to dereference various low-level details of underlying network infrastructure like physical computing resources, location, data partitioning, scaling, security, backup etc. A hypervisor, such as Xen, Oracle VirtualBox, Oracle VM, KVM, VMware ESX/ESXi, or Hyper-V runs the virtual machines as guests. Pools of hypervisors within the cloud operational system can support large numbers of virtual machines and the ability to scale services up and down according to customers' varying requirements. e.g. [Amazon Web Services (AWS)](https://aws.amazon.com/), [DigitalOcean](https://www.digitalocean.com/).
+
 [Infrastructure as code (IaC)](https://en.wikipedia.org/wiki/Infrastructure_as_code)  
 - Infrastructure as code (IaC) is the process of managing and provisioning computer data centers through machine-readable definition files, rather than physical hardware configuration or interactive configuration tools.  
 
@@ -229,6 +232,9 @@
 
 [Pipeline](https://en.wikipedia.org/wiki/Pipeline_(computing)#:~:text=In%20computing%2C%20a%20pipeline%2C%20also,or%20in%20time%2Dsliced%20fashion.)  
 - In computing, a pipeline, also known as a data pipeline, is a set of data processing elements connected in series, where the output of one element is the input of the next one.  
+
+[Platform as a service (PaaS)](https://en.wikipedia.org/wiki/Platform_as_a_service)  
+- Platform as a service (PaaS) or application platform as a service (aPaaS) or platform-based service is a category of cloud computing services that allows customers to provision, instantiate, run, and manage a modular bundle comprising a computing platform and one or more applications, without the complexity of building and maintaining the infrastructure typically associated with developing and launching the application(s); and to allow developers to create, develop, and package such software bundles. e.g. [Heroku](https://www.heroku.com/), [OpenShift](https://www.redhat.com/en/technologies/cloud-computing/openshift).
 
 [Principle of least privilege (PoLP)](https://en.wikipedia.org/wiki/Principle_of_least_privilege)  
 - In information security, computer science, and other fields, the principle of least privilege (PoLP), also known as the principle of minimal privilege or the principle of least authority, requires that in a particular abstraction layer of a computing environment, every module (such as a process, a user, or a program, depending on the subject) must be able to access only the information and resources that are necessary for its legitimate purpose.  
