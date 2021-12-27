@@ -164,7 +164,7 @@
 [Identity and access management (IAM or IdAM)](https://en.wikipedia.org/wiki/Identity_management)  
 - Identity management (IdM), also known as identity and access management (IAM or IdAM), is a framework of policies and technologies for ensuring that the right users (in an enterprise) have the appropriate access to technology resources. IdM systems fall under the overarching umbrellas of IT security and data management.  
 
-[Infrastructure as a service (IaaS](https://en.wikipedia.org/wiki/Infrastructure_as_a_service)  
+[Infrastructure as a service (IaaS)](https://en.wikipedia.org/wiki/Infrastructure_as_a_service)  
 - Infrastructure as a service (IaaS) are online services that provide high-level APIs used to dereference various low-level details of underlying network infrastructure like physical computing resources, location, data partitioning, scaling, security, backup etc. A hypervisor, such as Xen, Oracle VirtualBox, Oracle VM, KVM, VMware ESX/ESXi, or Hyper-V runs the virtual machines as guests. Pools of hypervisors within the cloud operational system can support large numbers of virtual machines and the ability to scale services up and down according to customers' varying requirements. e.g. [Amazon Web Services (AWS)](https://aws.amazon.com/), [DigitalOcean](https://www.digitalocean.com/).
 
 [Infrastructure as code (IaC)](https://en.wikipedia.org/wiki/Infrastructure_as_code)  
