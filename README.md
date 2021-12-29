@@ -198,6 +198,9 @@
 
 ## M
 
+[Micro Frontends](https://martinfowler.com/articles/micro-frontends.html)  
+- Micro frontends are all about slicing up big and scary things into smaller, more manageable pieces, and then being explicit about the dependencies between them. Our technology choices, our codebases, our teams, and our release processes should all be able to operate and evolve independently of each other, without excessive coordination.
+
 [Minification (programming)](https://en.wikipedia.org/wiki/Minification_(programming)#Web_development)  
 - Minification (also minimisation or minimization) is the process of removing all unnecessary characters from the source code of interpreted programming languages or markup languages without changing its functionality. These unnecessary characters usually include white space characters, new line characters, comments, and sometimes block delimiters, which are used to add readability to the code but are not required for it to execute. Minification reduces the size of the source code, making its transmission over a network (e.g. the Internet) more efficient.
 
