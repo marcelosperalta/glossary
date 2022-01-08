@@ -327,6 +327,9 @@
 [Startup studio](https://en.wikipedia.org/wiki/Startup_studio)  
 - A startup studio, also known as a startup factory, or a startup foundry, or a venture studio, or a venture builder is a studio-like company that aims at building several companies in succession. This style of business building is referred to as "parallel entrepreneurship".  
 
+[Static program analysis](https://www.netguru.com/blog/what-are-static-site-generators)  
+- Static program analysis (Static code analysis) is the analysis of computer software performed without executing any programs, in contrast with dynamic analysis, which is performed on programs during their execution. e.g. [SonarQube](https://www.sonarqube.org/)
+
 [Static site generators (SSG)](https://www.netguru.com/blog/what-are-static-site-generators)  
 - A static site generator is essentially a set of tools for building static websites based on a set of input files.  
 
