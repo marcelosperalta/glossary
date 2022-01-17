@@ -174,6 +174,9 @@
 [IntelliSense](https://en.wikipedia.org/wiki/Intelligent_code_completion#IntelliSense)  
 - IntelliSense is Microsoft's implementation of code completion, best known in Visual Studio. It was first introduced as a feature of a mainstream Microsoft product in 1996 building on many already invented concepts of code completion and syntax checking, with the Visual Basic 5.0 Control Creation Edition, which was essentially a publicly available prototype for Visual Basic 5.0. IntelliSense is now supported by the Visual Studio editors for C++, C#, J#, Visual Basic, XML, HTML and XSLT among others.  
 
+[Internationalization and localization](https://en.wikipedia.org/wiki/Internationalization_and_localization)  
+- In computing, internationalization and localization (American) or internationalisation and localisation (British English), often abbreviated i18n and L10n, are means of adapting computer software to different languages, regional peculiarities and technical requirements of a target locale. Internationalization is the process of designing a software application so that it can be adapted to various languages and regions without engineering changes. Localization is the process of adapting internationalized software for a specific region or language by translating text and adding locale-specific components. Localization (which is potentially performed multiple times, for different locales) uses the infrastructure or flexibility provided by internationalization (which is ideally performed only once before localization, or as an integral part of ongoing development). e.g. [LinguiJS](https://lingui.js.org/), [FormatJS](https://formatjs.io/), [react-i18next](https://react.i18next.com/).
+
 <p align="right">
   <a href="#glossary">:arrow_up:</a>
 </p>
