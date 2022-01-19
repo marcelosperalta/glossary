@@ -192,6 +192,9 @@
 
 ## L
 
+[Lean software development](https://en.wikipedia.org/wiki/Lean_software_development)  
+- Lean software development is a translation of lean manufacturing principles and practices to the software development domain. Adapted from the Toyota Production System, it is emerging with the support of a pro-lean subculture within the agile community. Lean offers a solid conceptual framework, values and principles, as well as good practices, derived from experience, that support agile organizations.
+
 [Lint (or a Linter)](https://en.wikipedia.org/wiki/Lint_(software))  
 - lint, or a linter, is a tool that analyzes source code to flag programming errors, bugs, stylistic errors, and suspicious constructs. The term originates from a Unix utility that examined C language source code. e.g. [ESLint](https://eslint.org/), [JSLint](https://www.jslint.com/).
 
