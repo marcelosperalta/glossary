@@ -339,6 +339,9 @@
 [Static type checking](https://en.wikipedia.org/wiki/Type_system#Static_type_checking)  
 - Static type checking is the process of verifying the type safety of a program based on analysis of a program's text (source code). If a program passes a static type checker, then the program is guaranteed to satisfy some set of type safety properties for all possible inputs.  
 
+[Systems development life cycle (SDLC)](https://en.wikipedia.org/wiki/Systems_development_life_cycle)  
+- In systems engineering, information systems and software engineering, the systems development life cycle (SDLC), also referred to as the application development life-cycle, is a process for planning, creating, testing, and deploying an information system. The systems development life cycle concept applies to a range of hardware and software configurations, as a system can be composed of hardware only, software only, or a combination of both. There are usually six stages in this cycle: requirement analysis, design, development and testing, implementation, documentation, and evaluation.
+
 [Système de gestion de base de données (SGBD)](https://fr.wikipedia.org/wiki/Syst%C3%A8me_de_gestion_de_base_de_donn%C3%A9es)
 - Database management system (DBMS).  
 
