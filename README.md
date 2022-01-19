@@ -183,6 +183,9 @@
 
 ## K
 
+[Kanban (development)](https://en.wikipedia.org/wiki/Kanban_(development))  
+- Kanban (Japanese: 看板, meaning signboard or billboard) is a lean method to manage and improve work across human systems. This approach aims to manage work by balancing demands with available capacity, and by improving the handling of system-level bottlenecks.
+
 [Keep it simple, stupid (KISS)](https://en.wikipedia.org/wiki/KISS_principle)  
 - KISS, an acronym for keep it simple, stupid, is a design principle noted by the U.S. Navy in 1960. The KISS principle states that most systems work best if they are kept simple rather than made complicated; therefore, simplicity should be a key goal in design, and unnecessary complexity should be avoided. Variations on the phrase include: "Keep it simple, silly", "keep it short and simple", "keep it simple and straightforward", "keep it small and simple", "keep it simple, soldier", "keep it simple, sailor", or "keep it sweet and simple".  
 
