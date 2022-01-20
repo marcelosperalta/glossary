@@ -222,6 +222,9 @@
 [Model–view–controller (MVC)](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)  
 - Model–view–controller (usually known as MVC) is a software design pattern commonly used for developing user interfaces that divides the related program logic into three interconnected elements.   
 
+[Monorepo](https://en.wikipedia.org/wiki/Monorepo)  
+- In version control systems, a monorepo ("mono" meaning 'single' and "repo" being short for 'repository') is a software development strategy where code for many projects is stored in the same repository. As of 2017, various forms of this software engineering practice were over two decades old, but the general concept had only recently been named. Many attempts have been made to differentiate between monolithic applications and other, newer forms of monorepos.
+
 <p align="right">
   <a href="#glossary">:arrow_up:</a>
 </p>
