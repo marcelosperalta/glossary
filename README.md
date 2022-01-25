@@ -390,6 +390,9 @@
 
 ## V
 
+[Vanilla JS](https://en.wikipedia.org/wiki/JavaScript#Vanilla_JavaScript)  
+- The term "Vanilla JS" has been coined for websites not using any libraries or frameworks, instead relying entirely on standard JavaScript functionality.
+
 [Vendor lock-in](https://en.wikipedia.org/wiki/Vendor_lock-in)  
 - In economics, vendor lock-in, also known as proprietary lock-in or customer lock-in, makes a customer dependent on a vendor for products and services, unable to use another vendor without substantial switching costs. Lock-in costs that create barriers to market entry may result in antitrust action against a monopoly.  
 
