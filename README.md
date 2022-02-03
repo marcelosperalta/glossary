@@ -306,6 +306,9 @@
 
 ## S
 
+[Scrum sprint](https://en.wikipedia.org/wiki/Scrum_sprint)
+- In scrum and other agile software development frameworks, a sprint is a repeatable fixed time-box during which a "Done" product of the highest possible value is created. Sprint lies at the core of the Sprint agile methodology and can be thought of as an event which wraps all other Scrum events like Daily Scrums, Scrum Review and Sprint Retrospective. Like all of scrum events, Sprint also has a maximum duration. Usually, a Sprint lasts for one month or less.
+
 [Search engine optimization (SEO)](https://en.wikipedia.org/wiki/Search_engine_optimization)  
 - Search engine optimization (SEO) is the process of improving the quality and quantity of website traffic to a website or a web page from search engines. SEO targets unpaid traffic (known as "natural" or "organic" results) rather than direct traffic or paid traffic. Unpaid traffic may originate from different kinds of searches, including image search, video search, academic search, news search, and industry-specific vertical search engines.  
 
