@@ -84,6 +84,12 @@
 [Cross-site scripting (XSS)](https://en.wikipedia.org/wiki/Cross-site_scripting)  
 - Cross-site scripting (XSS) is a type of security vulnerability typically found in web applications. XSS attacks enable attackers to inject client-side scripts into web pages viewed by other users. A cross-site scripting vulnerability may be used by attackers to bypass access controls such as the same-origin policy.  
 
+[Crowdsourcing](https://en.wikipedia.org/wiki/Crowdsourcing)
+- Crowdsourcing is a sourcing model in which individuals or organizations obtain goods or services—including ideas, voting, micro-tasks, and finances—from a large, relatively open, and often rapidly evolving group of participants.
+
+[Crowdsourced testing](https://en.wikipedia.org/wiki/Crowdsourced_testing)  
+- Crowdsourced testing (Crowdtesting) is an emerging trend in software testing which exploits the benefits, effectiveness, and efficiency of crowdsourcing and the cloud platform. It differs from traditional testing methods in that the testing is carried out by a number of different testers from different places, and not by hired consultants and professionals. The software is put to test under diverse realistic platforms which makes it more reliable, cost-effective, and can be fast. In addition, crowdsource testing can allow for remote usability testing because specific target groups can be recruited through the crowd. e.g. [Applause](https://www.applause.com/)
+
 [CSS-in-JS](https://en.wikipedia.org/wiki/CSS-in-JS)  
 - CSS-in-JS is a styling technique where JavaScript is used to style components. When this JavaScript is parsed, CSS is generated (usually as a `<style>` element) and attached into the DOM. It allows to abstract CSS to the component level itself, using JavaScript to describe styles in a declarative and maintainable way. e.g. [styled-components](https://styled-components.com/), [Emotion](https://emotion.sh/), [JSS](https://cssinjs.org/). 
 
