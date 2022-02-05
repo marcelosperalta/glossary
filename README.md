@@ -177,6 +177,9 @@
 [Infrastructure as code (IaC)](https://en.wikipedia.org/wiki/Infrastructure_as_code)  
 - Infrastructure as code (IaC) is the process of managing and provisioning computer data centers through machine-readable definition files, rather than physical hardware configuration or interactive configuration tools.  
 
+[Integrated development environment (IDE)](https://en.wikipedia.org/wiki/Integrated_development_environment)
+- An integrated development environment (IDE) is a software application that provides comprehensive facilities to computer programmers for software development. An IDE normally consists of at least a source code editor, build automation tools and a debugger. Some IDEs, such as [NetBeans](https://netbeans.apache.org/) and [Eclipse](https://www.eclipse.org/eclipseide/), contain the necessary compiler, interpreter, or both; others, such as [SharpDevelop](https://github.com/icsharpcode/SharpDevelop) and [Lazarus](https://www.lazarus-ide.org/), do not.
+
 [IntelliSense](https://en.wikipedia.org/wiki/Intelligent_code_completion#IntelliSense)  
 - IntelliSense is Microsoft's implementation of code completion, best known in Visual Studio. It was first introduced as a feature of a mainstream Microsoft product in 1996 building on many already invented concepts of code completion and syntax checking, with the Visual Basic 5.0 Control Creation Edition, which was essentially a publicly available prototype for Visual Basic 5.0. IntelliSense is now supported by the Visual Studio editors for C++, C#, J#, Visual Basic, XML, HTML and XSLT among others.  
 
