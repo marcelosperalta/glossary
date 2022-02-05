@@ -351,6 +351,9 @@
 [Solution stack](https://en.wikipedia.org/wiki/Solution_stack)
 - In computing, a solution stack or software stack or tech stack is a set of software subsystems or components needed to create a complete platform such that no additional software is needed to support applications. Applications are said to "run on" or "run on top of" the resulting platform. Examples: Jamstack, LAMP, MEAN, MERN, MEVN.
 
+[Source-code editor](https://en.wikipedia.org/wiki/Source-code_editor)
+- A source-code editor is a text editor program designed specifically for editing source code of computer programs. It may be a standalone application or it may be built into an integrated development environment (IDE) or web browser. Source-code editors are a fundamental programming tool, as the fundamental job of programmers is to write and edit source code. e.g. [Visual Studio Code](https://code.visualstudio.com/), [Atom](https://atom.io/), [Notepad++](https://notepad-plus-plus.org/), [vi](http://ex-vi.sourceforge.net/), [Vim](https://www.vim.org/).
+
 [Stack overflow](https://en.wikipedia.org/wiki/Stack_overflow)
 - In software, a stack overflow occurs if the call stack pointer exceeds the stack bound. The call stack may consist of a limited amount of address space, often determined at the start of the program. The size of the call stack depends on many factors, including the programming language, machine architecture, multi-threading, and amount of available memory. When a program attempts to use more space than is available on the call stack (that is, when it attempts to access memory beyond the call stack's bounds, which is essentially a buffer overflow), the stack is said to overflow, typically resulting in a program crash.
 
