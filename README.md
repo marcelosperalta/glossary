@@ -273,6 +273,9 @@
 [Platform as a service (PaaS)](https://en.wikipedia.org/wiki/Platform_as_a_service)  
 - Platform as a service (PaaS) or application platform as a service (aPaaS) or platform-based service is a category of cloud computing services that allows customers to provision, instantiate, run, and manage a modular bundle comprising a computing platform and one or more applications, without the complexity of building and maintaining the infrastructure typically associated with developing and launching the application(s); and to allow developers to create, develop, and package such software bundles. e.g. [Heroku](https://www.heroku.com/), [OpenShift](https://www.redhat.com/en/technologies/cloud-computing/openshift).
 
+[Popover (GUI)](https://en.wikipedia.org/wiki/Popover_(GUI))  
+- A popover is a container-type graphical control element that hovers over its parent window and blocks any other interaction with until it is selected. It can contain various other graphical control element such as checkboxes, radio buttons or a list box. Like any container-type graphical control element, it is meant to group elements that belong together and is not meant to be extensive.
+
 [Principle of least privilege (PoLP)](https://en.wikipedia.org/wiki/Principle_of_least_privilege)  
 - In information security, computer science, and other fields, the principle of least privilege (PoLP), also known as the principle of minimal privilege or the principle of least authority, requires that in a particular abstraction layer of a computing environment, every module (such as a process, a user, or a program, depending on the subject) must be able to access only the information and resources that are necessary for its legitimate purpose.  
 
