@@ -405,6 +405,9 @@
 
 ## U
 
+[Universally unique identifier (UUID)](https://en.wikipedia.org/wiki/Universally_unique_identifier)  
+- A universally unique identifier (UUID) is a 128-bit label used for information in computer systems. The term globally unique identifier (GUID) is also used. When generated according to the standard methods, UUIDs are, for practical purposes, unique. Their uniqueness does not depend on a central registration authority or coordination between the parties generating them, unlike most other numbering schemes. While the probability that a UUID will be duplicated is not zero, it is close enough to zero to be negligible.  
+
 [URL Slug](https://en.wikipedia.org/wiki/Clean_URL#Slug)  
 - Some systems define a slug as the part of a URL that identifies a page in human-readable keywords. It is usually the end part of the URL (specifically of the path / pathinfo part), which can be interpreted as the name of the resource, similar to the basename in a filename or the title of a page. The name is based on the use of the word slug in the news media to indicate a short name given to an article for internal use.
 
