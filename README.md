@@ -417,6 +417,9 @@
 [Vanilla JS](https://en.wikipedia.org/wiki/JavaScript#Vanilla_JavaScript)  
 - The term "Vanilla JS" has been coined for websites not using any libraries or frameworks, instead relying entirely on standard JavaScript functionality.
 
+[Vanilla software](https://en.wikipedia.org/wiki/Vanilla_software)  
+- In computer science, vanilla is the term used to refer when computer software and sometimes also other computing-related systems like computer hardware or algorithms are not customized from their original form, i.e., they are used without any customizations or updates applied to them.
+
 [Vendor lock-in](https://en.wikipedia.org/wiki/Vendor_lock-in)  
 - In economics, vendor lock-in, also known as proprietary lock-in or customer lock-in, makes a customer dependent on a vendor for products and services, unable to use another vendor without substantial switching costs. Lock-in costs that create barriers to market entry may result in antitrust action against a monopoly.  
 
