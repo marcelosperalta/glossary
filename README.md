@@ -318,6 +318,9 @@
 
 ## S
 
+[Schema migration](https://en.wikipedia.org/wiki/Schema_migration)  
+- In software engineering, schema migration (also database migration, database change management) refers to the management of incremental, reversible changes and version control to relational database schemas. A schema migration is performed on a database whenever it is necessary to update or revert that database's schema to some newer or older version.
+
 [Scrum sprint](https://en.wikipedia.org/wiki/Scrum_sprint)
 - In scrum and other agile software development frameworks, a sprint is a repeatable fixed time-box during which a "Done" product of the highest possible value is created. Sprint lies at the core of the Sprint agile methodology and can be thought of as an event which wraps all other Scrum events like Daily Scrums, Scrum Review and Sprint Retrospective. Like all of scrum events, Sprint also has a maximum duration. Usually, a Sprint lasts for one month or less.
 
