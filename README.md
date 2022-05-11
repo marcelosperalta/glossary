@@ -291,6 +291,9 @@
 
 ## R
 
+[RAW files](https://www.adobe.com/creativecloud/file-types/image/raw.html)  
+- RAW files contain uncompressed and unprocessed image data, allowing photographers to capture practically every detail they see in their viewfinder. The RAW file format stores the largest amount of detail out of any raster file type, which photographers can then edit, compress, and convert into other formats. Learn more about the benefits, drawbacks, and best ways to work with a RAW image.
+
 [RDF Site Summary or Really Simple Syndication (RSS)](https://en.wikipedia.org/wiki/RSS)  
 - RSS (RDF Site Summary or Really Simple Syndication) is a web feed that allows users and applications to access updates to websites in a standardized, computer-readable format.
 
