@@ -102,6 +102,9 @@
 [Data access object (DAO)](https://en.wikipedia.org/wiki/Data_access_object)  
 - In computer software, a data access object (DAO) is a pattern that provides an abstract interface to some type of database or other persistence mechanism. By mapping application calls to the persistence layer, the DAO provides some specific data operations without exposing details of the database.  
 
+[Data mapper pattern](https://en.wikipedia.org/wiki/Data_mapper_pattern)  
+- In software engineering, the data mapper pattern is an architectural pattern. It was named by Martin Fowler in his 2003 book Patterns of Enterprise Application Architecture. The interface of an object conforming to this pattern would include functions such as Create, Read, Update, and Delete, that operate on objects that represent domain entity types in a data store.
+
 [Data transfer object (DTO)](https://en.wikipedia.org/wiki/Data_transfer_object)  
 - In the field of programming a data transfer object (DTO) is an object that carries data between processes. The motivation for its use is that communication between processes is usually done resorting to remote interfaces (e.g., web services), where each call is an expensive operation. Because the majority of the cost of each call is related to the round-trip time between the client and the server, one way of reducing the number of calls is to use an object (the DTO) that aggregates the data that would have been transferred by the several calls, but that is served by one call only.  
 
