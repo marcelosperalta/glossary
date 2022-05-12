@@ -114,6 +114,9 @@
 [Decentralized finance (DeFi)](https://en.wikipedia.org/wiki/Decentralized_finance)  
 - Decentralized finance (commonly referred to as DeFi) is a blockchain-based form of finance that does not rely on central financial intermediaries such as brokerages, exchanges, or banks to offer traditional financial instruments, and instead utilizes smart contracts on blockchains, the most common being Ethereum.  
 
+[Design by contract (DbC)](https://en.wikipedia.org/wiki/Design_by_contract)  
+- Design by contract, also known as contract programming, programming by contract and design-by-contract programming, is an approach for designing software. It prescribes that software designers should define formal, precise and verifiable interface specifications for software components, which extend the ordinary definition of abstract data types with preconditions, postconditions and invariants. These specifications are referred to as "contracts", in accordance with a conceptual metaphor with the conditions and obligations of business contracts.
+
 [Document Object Model (DOM)](https://www.w3.org/TR/REC-DOM-Level-1/introduction.html)  
 - The Document Object Model (DOM) is an application programming interface (API) for HTML and XML documents. It defines the logical structure of documents and the way a document is accessed and manipulated. In the DOM specification, the term "document" is used in the broad sense - increasingly, XML is being used as a way of representing many different kinds of information that may be stored in diverse systems, and much of this would traditionally be seen as data rather than as documents. Nevertheless, XML presents this data as documents, and the DOM may be used to manage this data.  
 
